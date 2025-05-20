@@ -1,0 +1,651 @@
+{
+  "timestamp": "20250520_095409",
+  "data": {
+    "artificial intelligence": {
+      "risks": [
+        {
+          "title": "Misuse of AI-Powered Applications",
+          "explanation": "There are emerging risks associated with the inappropriate use of AI technology, particularly in schools where the technology is being used to create explicit images of students.",
+          "evidence": "\"Reports also suggest an escalating problematic trend in American schools with the misuse of AI-powered apps creating fake explicit images of students\" (FoxNews AI Newsletter)",
+          "impact": "High",
+          "time horizon": "Short-term"
+        },
+        {
+          "title": "Legal and Privacy Issues of AI-produced 'Digital Twins'",
+          "explanation": "AI is being used to create extremely realistic digital simulations of real people which could lead to legal and privacy issues as seen with Scarlett Johansson's case.",
+          "evidence": "\"Artificial intelligence (AI) is increasingly being used to create 'digital twins', hyperrealistic imitations of people, with victims struggling to identify legal recourse.\" (Fox News AI Newsletter: 'Digital twin' danger)",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        }
+      ],
+      "opportunities": [
+        {
+          "title": "National Security risk in Government Devices",
+          "explanation": "There's a risk to national security if a government device uses foreign AI software, such as China's DeepSeek.",
+          "evidence": "\"US lawmakers are introducing a bill that seeks to ban the Chinese artificial intelligence (AI) software DeepSeek from US government devices, citing direct links to the Chinese Communist Party and potential national security risks.\" (Fox News AI Newsletter: Bill would ban DeepSeek)",
+          "impact": "High",
+          "time horizon": "Short-term"
+        },
+        {
+          "title": "AI-enabled Process Optimization in Grocery Shopping",
+          "explanation": "AI powered robots can now optimize shopping processes by autonomously packing groceries for delivery.",
+          "evidence": "\"An AI-powered robot army is reshaping the grocery shopping experience by curating entire orders ready for delivery in a matter of five minutes, without human involvement.\" (FoxNews AI Newsletter)",
+          "impact": "Medium",
+          "time horizon": "Short-term"
+        },
+        {
+          "title": "AI Application in Sports for Accurate Officiating",
+          "explanation": "AI technology will be used to make calls in the Wimbledon Championships starting from 2025, promoting accuracy and reducing human error.",
+          "evidence": "\"The All England Club has announced that the Wimbledon Championships will utilize artificial intelligence (AI) to make \"out\" and \"fault\" calls starting from 2025.\" (Bleacher Report)",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Crowdsourcing Initiative for AI policies",
+          "explanation": "The White House has launched an initiative to crowdsource policy ideas in relation to its AI strategy. This opens avenues of cooperation and innovation for the public and industry bodies.",
+          "evidence": "\"The White House has launched an initiative to crowdsource policy ideas from the public related to its artificial intelligence (AI) strategy.\" ('AI powerhouse': White House encourages Americans to provide ideas for artificial intelligence strategy - Fox News)",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        }
+      ]
+    },
+    "AI's confidence level": {
+      "risks": [
+        {
+          "title": "Confidence in Managing AI Risks Is Low Among Professionals",
+          "explanation": "Professional auditors and IT experts reportedly have diminished confidence in understanding and addressing AI risks, indicating that many organizations may not be optimally prepared to handle potential AI-related issues.",
+          "evidence": "\"Just 13% expressing confidence in the ability of their IT audit teams to evaluate AI technology risks.\" (Accounting Today)",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        }
+      ],
+      "opportunities": [
+        {
+          "title": "Skepticism Towards AI-Generated Journalism",
+          "explanation": "The general public is reportedly not comfortable with AI-generated journalism, particularly regarding sensitive topics, raising concerns about widespread adoption of AI in newsrooms.",
+          "evidence": "\"Only 23% of US respondents and 10% of UK respondents indicated they were comfortable with AI-produced news.\" (TNW)",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "AI's Confidence Level Boosting Reliability and Safety",
+          "explanation": "Recent advancements in understanding AI's confidence levels are seen to enhance the safety and reliability of autonomous systems, potentially benefiting sectors like self-driving vehicles and healthcare.",
+          "evidence": "\"This breakthrough will aid in creating safer and more reliable autonomous systems by flexibly adjusting decision-making based on the system's confidence levels.\" (ISRAEL21c)",
+          "impact": "High",
+          "time horizon": "Long-term"
+        },
+        {
+          "title": "Growing Trust and Receptivity Towards AI",
+          "explanation": "The public's increasingly positive perception of AI, primarily due to frequent interactions with chatbots and marketing efforts, opens up more opportunities for AI integration across various industries.",
+          "evidence": "\"People in the US are becoming increasingly trustful and receptive towards artificial intelligence (AI).\" (New Scientist)",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "AI Assisting in Legal Research and Backlog Management",
+          "explanation": "AI tools are being utilized to manage a massive backlog of court cases in India, showcasing potential expansion of AI integration in the legal sector worldwide.",
+          "evidence": "\"AI is being used to help manage India's substantial backlog of over 50 million pending court cases...\" (Business Standard)",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "AI Catalyst for Global Innovation",
+          "explanation": "Businesses around the globe perceive AI as a vital asset in promoting innovation in output and processes, which could lead to an accelerated technology adoption rate.",
+          "evidence": "\"84% of businesses believe AI is positively impacting innovation in output and processes.\" (Robotics and Automation News)",
+          "impact": "High",
+          "time horizon": "Long-term."
+        }
+      ]
+    },
+    "AI integration": {
+      "risks": [
+        {
+          "title": "Risk of Dependency on AI Integration",
+          "explanation": "As businesses increasingly rely on AI integration to optimize operations, there is a risk of over-dependency, where critical functions might be heavily disrupted if the AI systems fail.",
+          "evidence": "Various companies mentioned in the articles, including Net Health, INDEX Holding, Expedia Group, and RESAAS Services, are integrating AI into their core operations to enhance efficiency.",
+          "impact": "High",
+          "time horizon": "Long-term"
+        },
+        {
+          "title": "Security and Privacy Risks",
+          "explanation": "The integration of AI technology increases the risk of data breaches or misuse of data, potentially impacting user privacy and trust.",
+          "evidence": "No specific mention in the news articles but a known risk associated with any technology handling sensitive data.",
+          "impact": "High",
+          "time horizon": "Long-term"
+        }
+      ],
+      "opportunities": [
+        {
+          "title": "Geopolitical Challenges for Certain Industries",
+          "explanation": "For businesses like BYD, the integration of AI poses geopolitical risks due to concerns surrounding Chinese technology.",
+          "evidence": "As mentioned in The Express Tribune, BYD's new self-driving tech with AI integration might complicate its entry into Western markets.",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Enhanced Efficiency and Operational Excellence",
+          "explanation": "Many sectors, including healthcare, real estate, automotive, and HR, can significantly benefit from AI integration, as it promises improved efficiency and operational excellence.",
+          "evidence": "Net Health is using AI for clinical documentation, RESAAS Services for data integration, and MongoDB's Senior HRIS Engineer received recognition for successful AI integration in HR processes.",
+          "impact": "High",
+          "time horizon": "Short-term to Medium-term"
+        },
+        {
+          "title": "Driving Revenue Growth",
+          "explanation": "AI integration can have a direct positive impact on businesses by enhancing efficiency, boosting productivity, and thus contributing to revenue growth.",
+          "evidence": "As indicated in The Jerusalem Post, INDEX Holding experienced a 10% increase in trade deals due to AI integration.",
+          "impact": "High",
+          "time horizon": "Medium-term to Long-term"
+        },
+        {
+          "title": "Reinventing Customer Engagement",
+          "explanation": "AI integration in customer service can revolutionize how companies interact with customers, making interactions more efficient, personalized, and satisfying.",
+          "evidence": "Expedia Group's CEO described ongoing AI trials in customer service, and Gaurav Basra's contributions in chat AI have transformed customer engagement.",
+          "impact": "Medium",
+          "time horizon": "Short-term to Medium-term"
+        },
+        {
+          "title": "Potential for Ethical Innovation in AI",
+          "explanation": "There's an opportunity for entrepreneurs and innovators to focus on creating ethical AI systems, transforming customer engagement while setting responsible use standards.",
+          "evidence": "Gaurav Basra was recognized for his work in creating ethical AI that balances automation with human expertise.",
+          "impact": "Medium",
+          "time horizon": "Long-term"
+        }
+      ]
+    },
+    "machine learning": {
+      "risks": [
+        {
+          "title": "Risk of Data Privacy Violation",
+          "explanation": "The development and adoption of machine learning models require the accumulation and analysis of vast amounts of data. This could potentially lead to the violation of personal and sensitive data.",
+          "evidence": "All articles indicate the use of extensive datasets for the development and testing of machine learning models.",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        }
+      ],
+      "opportunities": [
+        {
+          "title": "Dependence on Model Accuracy",
+          "explanation": "The effectiveness and success of machine learning technologies rely heavily on the accuracy of the models developed. If the models prove less accurate in real-world situations, it can lead to significant consequences particularly in crucial sectors like disaster management and healthcare.",
+          "evidence": "Each of the reported machine learning models boasts high accuracy, like the 97.97% accuracy in earthquake forecasting, but real-world application will be the ultimate test.",
+          "impact": "High",
+          "time horizon": "Long-term"
+        },
+        {
+          "title": "Enhanced Disaster Preparedness and Management",
+          "explanation": "The high accuracy in earthquake forecasting achieved by the machine learning model provides improved tools for disaster preparedness and risk management.",
+          "evidence": "Article titled \"Advanced Machine Learning Model Achieves 97.97% Accuracy in Earthquake Forecasting for High-Risk Areas\"",
+          "impact": "High",
+          "time horizon": "Short-term"
+        },
+        {
+          "title": "Improved Healthcare Procedures and Patient Safety",
+          "explanation": "Machine learning applications in healthcare, such as in organ transplant compatibility predictions, predicting breast cancer recurrence, and enhancing hemodialysis membrane development are set to improve patient safety and clinical procedures.",
+          "evidence": "Articles titled \"Machine Learning Revolutionizes Organ Transplant Compatibility Predictions,\" \"New Machine Learning Models Predict Breast Cancer Recurrence,\" and \"Machine Learning Models Revolutionize Hemodialysis Membrane Development\"",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Enhancing Agricultural Productivity and Resilience",
+          "explanation": "Machine learning is helping increase agricultural resilience against climate change threats and improving productivity.",
+          "evidence": "Article titled \"Machine Learning Enhances Pollen Performance Predictions For Pome Fruits\"",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Improved Resource Management and Forecasting in Healthcare",
+          "explanation": "Machine learning models are aiding decision-making in healthcare settings by predicting hospitalizations, which significantly helps in hospital resource management.",
+          "evidence": "Article titled \"New Machine Learning Model Predicts COVID-19 Hospitalizations For Children\"",
+          "impact": "Medium",
+          "time horizon": "Short-term"
+        },
+        {
+          "title": "Advancements in Sustainable Agricultural Practices",
+          "explanation": "Machine learning innovations are also being applied to address agricultural waste and enhance sustainable practices.",
+          "evidence": "Article titled \"Scientists Optimize Date Seed Milling With Neural Networks\"",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Enhanced Public Health Interventions",
+          "explanation": "Machine learning models' ability to predict fertility rates among Ethiopian women could help in shaping effective public health interventions and managing fertility rates effectively.",
+          "evidence": "Article titled \"Machine Learning Models Predict Fertility Rates Among Ethiopian Women\"",
+          "impact": "Low",
+          "time horizon": "Long-term"
+        }
+      ]
+    },
+    "AI system for stroke rehabilitation assessment": {
+      "risks": [
+        {
+          "title": "Misinterpretation of AI recommendation",
+          "explanation": "There exists the risk that medical professionals might rely entirely on AI recommendations for diagnosis without validating them against medical standards and expert opinions. This could lead to incorrect diagnoses and treatment missteps.",
+          "evidence": "\"A five-year study of AI in stroke diagnosis in the UK indicates that clinicians are adapting, using AI recommendations as starting points for diagnosis and validating them against medical standards and expert opinions.\"",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        }
+      ],
+      "opportunities": [
+        {
+          "title": "Regulatory and ethical challenges",
+          "explanation": "AI in healthcare demands careful consideration of ethical and regulatory issues. There could be risks with data privacy, informed consent, accountability, and liability that needs addressing. Ensuring that AI conforms to regulations could induce additional costs or delays.",
+          "evidence": "\"While preliminary findings suggest AI can improve accuracy and speed of diagnosis, further research is needed to manage potential risks and ethical challenges.\"",
+          "impact": "Medium",
+          "time horizon": "Long-term"
+        },
+        {
+          "title": "Improved diagnostic and treatment accuracy",
+          "explanation": "AI systems could significantly enhance the accuracy of diagnosing strokes and formulating treatment plans, potentially improving patient outcomes significantly.",
+          "evidence": "\"Researchers from... have developed an AI software that reads brain scans of patients who've had a stroke, accurately determines when the stroke occurred, and assesses if the damage is reversible.\" And \"Japanese startup Cardio Intelligence has developed... SmartRobin AI, capable of detecting atrial fibrillation (AFib), an undiagnosed condition in approximately a million people in Japan that increases stroke risk.\"",
+          "impact": "High",
+          "time horizon": "Short-term"
+        },
+        {
+          "title": "Expanding technology use and market penetration",
+          "explanation": "Partnerships between AI manufacturers and healthcare corporations can enable these technologies to reach more markets, particularly emerging ones. This increases the potential patient population that can benefit from these tools.",
+          "evidence": "\"Medtronic, a medtech giant, has partnered with Barcelona-based Methinks AI to... streamline the triage process and care coordination, starting in Central and Eastern Europe, Africa, Turkey, and the Middle East.\"",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Cost reduction and patient monitoring",
+          "explanation": "AI-powered platforms can shorten hospital stays, improve home recovery, reduce healthcare costs and play a proactive role in monitoring patient condition post-stroke.",
+          "evidence": "\"CareDirections and Carium have launched StrokeCP, an AI-powered digital health platform developed to revolutionize post-stroke care...Key features of the platform include personalized care plans, remote patient monitoring and coaching, bi-directional EHR integration, and a focus on social determinants of health.\"",
+          "impact": "Medium",
+          "time horizon": "Long-term"
+        },
+        {
+          "title": "Enhanced accessibility of stroke therapy",
+          "explanation": "AI technologies can make stroke diagnosis and therapy more accessible by enabling the use of commonly available medical imaging and even personal devices like smartphones.",
+          "evidence": "\"The FDA has approved... Brainomix 360 Stroke software as it can now be used in non-contrast CT images, which make up about 60% of all CT scans conducted in the US.\" And \"Researchers at RMIT University have developed an AI-powered smartphone feature that can detect strokes...\"",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        }
+      ]
+    },
+    "large language models": {
+      "risks": [
+        {
+          "title": "Limitations in Simple Task Performance",
+          "explanation": "Large Language Models (LLMs) may get worse at answering simple questions as they scale up, potentially posing a reliability issue.",
+          "evidence": "\"A study has found that large language models (LLMs), used in AI, may become less reliable at answering simple questions as they expand and learn from human feedback.\"",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "AI Dependence and Job Loss Fears",
+          "explanation": "There is a growing fear among the general population that overreliance on AI could replace a significant portion of human communication and jobs.",
+          "evidence": "\"The survey also outlined potential worries, with 63% of respondents fearing that AI could replace a significant portion of human communication and 59% concerned it could lead to job losses.\"",
+          "impact": "High",
+          "time horizon": "Long-term"
+        },
+        {
+          "title": "Potential for Misinformation Spread",
+          "explanation": "LLMs can be weaponized for information warfare by manipulating news, potentially aggravating misinformation issues.",
+          "evidence": "\"The use of AI in this manner underscores the potential for LLMs to be weaponized in informational conflicts, presenting worrisome implications for the influence of false and manipulated information on public perception.\"",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        }
+      ],
+      "opportunities": [
+        {
+          "title": "Big Tech 'Lock-in' Risk",
+          "explanation": "The heavy utilization of AI services from large technology firms introduces the risk of 'lock-in,' limiting operational freedom for companies.",
+          "evidence": "\"Vodafone's CTO, Scott Petty, has expressed concerns about the potential for \"lock-in\" with big tech companies in relation to the development and implementation of generative artificial intelligence (AI).\"",
+          "impact": "High",
+          "time horizon": "Long-term"
+        },
+        {
+          "title": "Advanced Clinical Decision-making",
+          "explanation": "LLMs demonstrate potential as clinical decision aids, outperforming traditional methods in certain medical contexts.",
+          "evidence": "\"A study conducted at Singapore General Hospital found the model had an accuracy rate of 92.86% when examining 70 fictional cases against traditional methods and clinician performance.\"",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Enhanced Anomaly Detection in Cybersecurity",
+          "explanation": "LLMs can improve anomaly detection in cybersecurity, reducing resource requirements and increasing efficiency.",
+          "evidence": "\"The Tabular Anomaly Detection via Guided Prompts (TAD-GP) framework, a new development in cybersecurity, uses large language models (LLMs) to enhance anomaly detection in tabular data.\"",
+          "impact": "High",
+          "time horizon": "Short-term"
+        },
+        {
+          "title": "Persistent AI Chatbots for Various Applications",
+          "explanation": "Techniques like StreamingLLM enable chatbots to conduct long-lasting conversations, potentially enhancing their utility in AI applications like editing or code generation.",
+          "evidence": "\"The StreamingLLM technique shows faster performance and maintains efficiency in prolonged discussions involving over 4 million words.\"",
+          "impact": "Medium",
+          "time horizon": "Short-term"
+        },
+        {
+          "title": "Generative AI Supporting Manifestation Efforts",
+          "explanation": "AI tools like LLMs can positively impact personal growth by providing realistic feedback for manifestation efforts without negative impact.",
+          "evidence": "\"The AI technology supports manifestation efforts by providing realistic feedback without undermining the individual's goals, thus eliminating the potential negative impact from human interactions.\"",
+          "impact": "Low",
+          "time horizon": "Medium-term"
+        }
+      ]
+    },
+    "databases": {
+      "risks": [
+        {
+          "title": "Unauthorized Access to Databases",
+          "explanation": "The Italian Intelligence Scandal underscores the risk of unauthorized access to databases, including sensitive information such as taxpayer data and financial activities.",
+          "evidence": "\"[...] unauthorized access to state databases.\" – both Devdiscourse and Dunya News articles.",
+          "impact": "High",
+          "time horizon": "Short-term/Medium-term"
+        }
+      ],
+      "opportunities": [
+        {
+          "title": "Growth of the Market for Confidential Information",
+          "explanation": "The same scandal suggests a rise in business-oriented intelligence activities powered by illicitly-obtained confidential information.",
+          "evidence": "\"This case highlights the emerging concern over a growing 'market for confidential information',\" reports Dunya News.",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "AI Integration in Databases",
+          "explanation": "Google's Gemini in Databases introduces AI-powered tools for database management, highlighting the ongoing developments in AI-driven databases.",
+          "evidence": "\"Google previewed Gemini in Databases, a suite of AI-powered tools for app database creation, monitoring, and migration on Google Cloud.\" – from TechCrunch",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "New Partnerships Enhancing Database Services",
+          "explanation": "The partnership between AWS and Oracle presents an opportunity for enhanced database services provided with the benefits of both companies' technologies.",
+          "evidence": "\"Amazon Web Services (AWS) is entering a partnership with Oracle that will enable customers to use Oracle Autonomous Database and Oracle Exadata Database Service within AWS.\" – from Yahoo Finance and Forbes",
+          "impact": "High",
+          "time horizon": "Medium-term/Long-term"
+        },
+        {
+          "title": "Expansion of Commercial Market Reach via Database Platforms",
+          "explanation": "Alkami's partnership with CUTX demonstrates how database platforms can enable a broader range of services, expanding commercial market reach.",
+          "evidence": "\"Credit Union of Texas (CUTX) has partnered with digital banking solutions provider Alkami to use its business banking platform.\" – from FinTech Futures",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Application of AI in Vector Databases",
+          "explanation": "Pinecone’s work towards creating scalable solutions for vector database management present opportunities for the transformation of the AI industry.",
+          "evidence": "\"Pinecone is working towards creating efficient, scalable solutions for vector database management, which could potentially revolutionize the AI industry.\" – from Global Village space",
+          "impact": "Medium",
+          "time horizon": "Long-term"
+        },
+        {
+          "title": "Integration of AI with Web3 Technologies",
+          "explanation": "Hitch Interactive's use of AI in Immutable Miniverse NFTs demonstrates the potential for decentralized AI applications over Web3.",
+          "evidence": "\"Hitch Interactive has announced the integration of large language models (LLMs) with its Immutable Miniverse NFTs [...].\" – from FinTech Futures",
+          "impact": "Medium",
+          "time horizon": "Long-term"
+        }
+      ]
+    },
+    "LLM-integrated applications": {
+      "risks": [
+        {
+          "title": "Security Vulnerabilities in LLM Applications",
+          "explanation": "Given the vast applications and dependencies of LLMs, any discovered vulnerabilities can compromise vast networks, posing risks to data, transactions and overall security.",
+          "evidence": "DeepSeek's LLM, R1 shows high susceptibility to cyber threats and prompt injection attacks as reported in \"DeepSeek’s Flagship AI Model Under Fire for Security Vulnerabilities.\"",
+          "impact": "High",
+          "time horizon": "Short-term/Medium-term"
+        },
+        {
+          "title": "Privacy Concerns",
+          "explanation": "There are serious privacy concerns surrounding the use of AI and LLMs, as they potentially increase risks of data misuse, lack of transparency, surveillance risk and issues with third-party plugins.",
+          "evidence": "\"Highlights from FTC's 2024 PrivacyCon - AI\" reports such concerns in detail.",
+          "impact": "High",
+          "time horizon": "Short-term/Medium-term/Long-term"
+        },
+        {
+          "title": "Error Propensity and User Trust",
+          "explanation": "While LLM capabilities are used to streamline healthcare operations, concerns about accuracy, potential bias, data privacy issues, and the inherent generation of erroneous outputs persist.",
+          "evidence": "Such concerns are reported in \"The Future of LLMs in Healthcare: 5 Clinical Use Cases.\"",
+          "impact": "High",
+          "time horizon": "Medium-term/Long-term"
+        }
+      ],
+      "opportunities": [
+        {
+          "title": "Risk of Misuse",
+          "explanation": "Growing applications of LLMs pose a major risk of misuse by state-owned organizations, particularly those in countries with less stringent regulation of user data.",
+          "evidence": "Concerns over user login information being transmitted to state-owned China Mobile through DeepSeek AI Chatbot are reported in \"Chinese telcos quickly integrate DeepSeek into their infrastructure.\"",
+          "impact": "High",
+          "time horizon": "Medium-term/Long-term"
+        },
+        {
+          "title": "LLM Use in Biomolecular Modeling",
+          "explanation": "PepFlow, an LLM developed by the University of Toronto, has the potential to drastically improve our understanding of peptides for therapeutic use, potentially paving the way for advanced drug design.",
+          "evidence": "As evidenced in \"Researchers at the University of Toronto Introduce a Deep-Learning Model that Outperforms Google AI System.\"",
+          "impact": "High",
+          "time horizon": "Long-term"
+        },
+        {
+          "title": "Improved Customer Experience and Efficiency in Telecom Industry",
+          "explanation": "The integration of LLMs by GTAA presents significant opportunities for improving customer interactions and operational efficiency in telcos.",
+          "evidence": "As per the announcement in \"Global Telco AI Alliance forms joint venture to build telco LLMs.\"",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "LLM Development for Local Language Applications",
+          "explanation": "LLMs developed for local language applications could drive significant growth in AI-based services within diverse local contexts, democratizing AI use.",
+          "evidence": "As reported in \"Indonesia's IOH and GoTo Group launch Sahabat-AI for local languages.\"",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Enhancements in Spreadsheet Analysis",
+          "explanation": "Microsoft's SPREADSHEETLLM could lead to more intelligent and efficient interactions with spreadsheet data in various applications, improving data handling efficiency.",
+          "evidence": "As revealed in \"Microsoft Introduces SPREADSHEETLLM for Efficient Spreadsheet Understanding – AIM.\"",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Better Evaluation of LLM Reliability",
+          "explanation": "RagaAI's comprehensive evaluation platform offers insights into the reliability and trustworthiness of LLMs, which will promote ethical AI practices and compliance.",
+          "evidence": "As reported in \"Reliable & Trustworthy LLMs: RagaAI Open-Sources the most comprehensive Platform for Evaluation & Guardrails.\"",
+          "impact": "Medium",
+          "time horizon": "Medium-term."
+        }
+      ]
+    },
+    "software engineering": {
+      "risks": [
+        {
+          "title": "Risk of Cybersecurity Vulnerabilities",
+          "explanation": "The development and application of new software technologies and systems can introduce cybersecurity vulnerabilities, leading to potential breaches and data leaks.",
+          "evidence": "This risk is highlighted in the news article where Atlassian issued an urgent patch for critical vulnerabilities in its outdated Confluence data centre and server environments.",
+          "impact": "High",
+          "time horizon": "Short-term/Medium-term"
+        }
+      ],
+      "opportunities": [
+        {
+          "title": "Risk of Recruitment Challenges",
+          "explanation": "The expansion of companies and demand for software engineering expertise may exacerbate talent acquisition challenges, raising the cost of recruitment or leading to skill gaps.",
+          "evidence": "As indicated in the news article, Kyndryl's plan to establish a technology hub and generate 1,000 AI-related and software engineering jobs may face recruitment challenges.",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Opportunity for Business Expansion",
+          "explanation": "Leveraging software engineering capabilities and expanding them into various sectors can lead to substantial growth and business expansion opportunities.",
+          "evidence": "This opportunity is exemplified by the CGI's acquisition of BJSS, which broadens their software engineering capabilities, as covered in the article from StockTitan, giving the company an opportunity to delve into new sectors.",
+          "impact": "High",
+          "time horizon": "Long-term"
+        },
+        {
+          "title": "Opportunity for Collaboration and Innovation",
+          "explanation": "There are numerous opportunities for innovation and collaboration when professional expertise is combined effectively. This can lead to efficiency improvements, increased project success rates, and improved operational efficiency.",
+          "evidence": "As evidenced by the Global Recognition Award winner Sabyasachi Mondal whose innovative methods have been widely adopted, and JPMorgan's software development conference DEVUP, which fosters innovation and collaboration among tech professionals.",
+          "impact": "High",
+          "time horizon": "Medium-term/Long-term"
+        },
+        {
+          "title": "Opportunity for Automation and Efficiency",
+          "explanation": "The integration of software innovations in industries like automobile production can lead to significant improvements in efficiency and safety by automating various processes.",
+          "evidence": "Embotech's collaboration with Outsight and Hesai to automate vehicle marshalling in BMW factories shows how software innovations can streamline processes.",
+          "impact": "Medium",
+          "time horizon": "Short-term/Medium-term"
+        },
+        {
+          "title": "Opportunity in Public Sector Contracts",
+          "explanation": "There are significant opportunities for software engineering companies to win lucrative contracts from public sector organisations such as NASA.",
+          "evidence": "Metis Technology Solutions' $177 million contract from NASA and Columbus Technologies and Services Inc's deal with NASA indicate the opportunities in space technology and aerospace fields.",
+          "impact": "High",
+          "time horizon": "Long-term"
+        }
+      ]
+    },
+    "natural language instructions": {
+      "risks": [
+        {
+          "title": "Dependence on Large Datasets for AI Training",
+          "explanation": "The BrainLLM system needs large datasets to function optimally, translating brain activities into understandable formats for machines, which might pose challenges regarding data availability and privacy.",
+          "evidence": "From \"Researchers train AI to read minds—by decoding brain signals into text,\" it is mentioned that \"The system performed best when trained with larger datasets.\"",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        }
+      ],
+      "opportunities": [
+        {
+          "title": "Challenges around QPU Adoption",
+          "explanation": "Adoption of Quantum Processing Units (QPU) presents several challenges, including the need for new programming tools and quantum error correction techniques that could slow down its adoption",
+          "evidence": "In \"Beyond GPUs: How Quantum Processing Units (QPU) Will Transform Computing,\" it is mentioned that \"QPU adoption faces challenges including the need for new programming tools and quantum error correction techniques.\"",
+          "impact": "High",
+          "time horizon": "Long-term"
+        },
+        {
+          "title": "Advancements in Brain-to-Text Communications",
+          "explanation": "The development of AI systems like BrainLLM will advance brain-to-text communication, giving rise to new applications in AI-based communication and therapy.",
+          "evidence": "\"Researchers have developed an AI system, BrainLLM, that can generate text directly from brain recordings.\" as noted in \"Researchers train AI to read minds—by decoding brain signals into text.\"",
+          "impact": "High",
+          "time horizon": "Long-term"
+        },
+        {
+          "title": "Enhancement of Robot Control Via Sketches",
+          "explanation": "The RT-Sketch model adds a new dimension in controlling robots, especially in cases with precise spatial tasks, broadening the applications of robotics.",
+          "evidence": "From \"New robot control model utilizes sketches to follow instructions, developed by DeepMind and Stanford,\" the article states \"his approach, which outperformed others when visualizing spatially precise tasks, could broaden the applications of robotics.\"",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Benefits of AI Integration in Workforce Engagement",
+          "explanation": "AI integration in Workforce Engagement Management (WEM) applications could significantly boost customer service operations, prompting many enterprises to plan for such adoption.",
+          "evidence": "In \"Two-Thirds of Enterprises Plan to Integrate AI-Powered Workforce Engagement Management Apps Into Customer Service Operations,\" the article mentions that \"two-thirds of enterprises are planning to integrate AI-Powered WEM applications into their customer service operations.\"",
+          "impact": "High",
+          "time horizon": "Short-term"
+        },
+        {
+          "title": "Role of AI in Aligning Climate Action with Sustainable Development Goals",
+          "explanation": "AI has the potential to help nations align their climate actions with their sustainable development goals, driving towards more sustainable economic growth and effective climate action.",
+          "evidence": "In \"AI-Driven Approaches Enhance Climate Action Synergies,\" it was highlighted that \"AI can promote policy coherence as it allows governments to uncover the interconnections between NDCs and VNRs.\"",
+          "impact": "High",
+          "time horizon": "Long-term"
+        }
+      ]
+    },
+    "optical character recognition": {
+      "risks": [
+        {
+          "title": "Risk: Cybersecurity Threats from OCR Technology",
+          "explanation": "OCR technology is increasingly being exploited by malicious actors to steal sensitive information especially from cryptocurrency wallets.",
+          "evidence": "Articles from Ars Technica and TechSpot reported malicious Android apps and SpyAgent malware that utilize OCR technology to steal cryptocurrency credentials from images and text messages.",
+          "impact": "High",
+          "time horizon": "Short-term"
+        },
+        {
+          "title": "Risk: Automation Challenges and Job Displacement",
+          "explanation": "The widespread integration of OCR and AI technologies poses a risk of redundancy in certain job roles, sparking concerns about job displacement.",
+          "evidence": "The Euronews article mentions that AI now automates tasks such as data entry, potentially sparking fears of job loss.",
+          "impact": "Medium",
+          "time horizon": "Long-term"
+        }
+      ],
+      "opportunities": [
+        {
+          "title": "Risk: Data Governance Issues",
+          "explanation": "The increased application of OCR technology in data management could lead to increased problems associated with poor data governance.",
+          "evidence": "Law.com Compass Pacesetter Research reported increased business problems due to poor data governance, as described in the Solutions Review article.",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Opportunity: Enhanced Efficiency of Business Processes",
+          "explanation": "Investment in OCR and AI technology promises increased efficiencies in workflows and better data-informed decisions.",
+          "evidence": "Lazarus AI's use of OCR technology to process data from various formats (FinTech Futures), and Selectsys' AI-driven BPO model reducing manual workloads and operation costs (Insurance Journal).",
+          "impact": "High",
+          "time horizon": "Medium to Long-term"
+        },
+        {
+          "title": "Opportunity: Advancements in Document Processing",
+          "explanation": "The acquisition of AI and OCR technology companies indicates increased demand for automated intelligent document processing, which will unlock opportunities for innovation.",
+          "evidence": "Box's acquisition of Alphamoon to enhance its capacity to automate workflows and process content by extracting metadata from complex documents (Forbes).",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Opportunity: Trend Identification and Consumer Engagement",
+          "explanation": "AI and OCR technologies can help better identify and respond to consumer trends, leading to increased revenue and improved customer engagement.",
+          "evidence": "Direct-to-consumer eyewear retailer Zenni has seen a 34% rise in revenue per search since using AI for microtrend identification (Chain Store Age).",
+          "impact": "Medium",
+          "time horizon": "Short to Medium-term."
+        },
+        {
+          "title": "Opportunity: Trust Building in Critical Sectors like Voting",
+          "explanation": "OCR technology can be utilized to enhance the transparency and trust in critical sectors like election management by providing verifiable results.",
+          "evidence": "The audit of all ballots cast in Georgia's election resulted in debunking of conspiracy theories about the inaccuracy of Dominion Voting Systems (The Augusta Chronicle).",
+          "impact": "High",
+          "time horizon": "Long-term"
+        }
+      ]
+    },
+    "Mixture of Experts": {
+      "risks": [
+        {
+          "title": "Risk of Overspecialization in MoE-based AI Models",
+          "explanation": "The Mixture of Experts (MoE) models, while powerful, may overutilize certain 'experts,' which could result in issues such as imbalanced learning and inefficient knowledge transfer.",
+          "evidence": "This was highlighted in the Forbes article describing potential downsides of the Mixture-of-Experts (MoE) AI models.",
+          "impact": "Medium",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Antitrust Risk in AI Investment and Acquisitions",
+          "explanation": "Large investments and acquisitions in AI, such as Microsoft's involvement with OpenAI, could lead to antitrust investigations that potentially impact future tech mergers and acquisitions.",
+          "evidence": "This was outlined in the Tech News Space article concerning the US and UK's investigation into Microsoft's investment in OpenAI.",
+          "impact": "High",
+          "time horizon": "Long-term"
+        }
+      ],
+      "opportunities": [
+        {
+          "title": "Uncertainty Regarding AI Leadership",
+          "explanation": "Unclear leadership roles and potential internal disputes could disrupt the roadmap and progress of AI-based companies.",
+          "evidence": "The uncertainty about Ilya Sutskever's future role at OpenAI as reported in Tech News Space.",
+          "impact": "Medium",
+          "time horizon": "Short-term"
+        },
+        {
+          "title": "Advancements in AI Performance with MoE Models",
+          "explanation": "MoE-based AI models offer opportunities for improved speed, specificity, and computational efficiency over traditional AI models, potentially shaking-up AI competitions.",
+          "evidence": "This was highlighted by the Mistral company's AI model, Mixtral, in the Ars Technica article and DeepMind's successful PEER model in the Global Village Space article.",
+          "impact": "High",
+          "time horizon": "Short-to-Medium-term"
+        },
+        {
+          "title": "AI-Enhancing Business Operations",
+          "explanation": "AI, particularly large language models (LLMs), offers potential to revolutionize business operations, including customer services. AI can streamline processes and potentially reduce operational costs.",
+          "evidence": "This was discussed in the Financial Times interview with Salesforce CEO Marc Benioff as well as in the mention of Retell's AI 'voice agents' in the TechCrunch article.",
+          "impact": "High",
+          "time horizon": "Medium-term"
+        },
+        {
+          "title": "Specialized Hardware and Software Competition",
+          "explanation": "There's a growing opportunity for startups to challenge established companies by developing specialized hardware and software for AI models, particularly those based on transformer models and large language models (LLMs).",
+          "evidence": "This was showcased in Business Insider's article reporting on startups such as Positron AI and Rivos targeting Nvidia's dominance in the AI chip market.",
+          "impact": "Medium",
+          "time horizon": "Long-term"
+        }
+      ]
+    }
+  }
+}

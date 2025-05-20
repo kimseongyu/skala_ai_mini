@@ -1,0 +1,509 @@
+{
+  "timestamp": "20250520_094500",
+  "data": {
+    "artificial intelligence": [
+      {
+        "title": "FoxNews AI Newsletter: Swarm of helpful robots can pack your groceries - Fox News",
+        "summary": "An AI-powered robot army is reshaping the grocery shopping experience by curating entire orders ready for delivery in a matter of five minutes, without human involvement. In related news, Anthropic, an AI firm, predicts digital AI workers joining corporate networks within the year, and Yamaha, Roush Industries, and Regulator Marine are developing the world's first hydrogen-combustion outboard engine for eco-friendly boating. Reports also suggest an escalating problematic trend in American schools with the misuse of AI-powered apps creating fake explicit images of students, and AMP is leveraging AI to improve waste sorting efficiencies in recycling."
+      },
+      {
+        "title": "Fox News AI Newsletter: Where US, China stand in AI race - Fox News",
+        "summary": "OpenAI co-founder Sam Altman spoke at a Senate Commerce Committee hearing, noting that the US maintains a thin lead over China in the international AI development race. Some businesses are adjusting their workforce structures as they incorporate more AI and automation. OpenAI is also changing their corporate structure to attract new investors and accelerate the development of artificial general intelligence. Additionally, singer Randy Travis is utilizing AI to continue making music following a nearly fatal stroke, and the voice of late NBC icon Jim Fagan is being resurrected via AI for future NBA coverage."
+      },
+      {
+        "title": "Fox News AI Newsletter: 'Digital twin' danger - Fox News",
+        "summary": "Artificial intelligence (AI) is increasingly being used to create 'digital twins', hyperrealistic imitations of people, with victims struggling to identify legal recourse. Concerns have been raised after Scarlett Johansson's likeness was used without her consent, underlining the wider implications of this technology. OpenAI is proposing key strategies to ensure US leadership in AI technology, amidst ongoing advancements such as Stellantis' autonomous driving system, STLA AutoDrive 1.0."
+      },
+      {
+        "title": "Fox News AI Newsletter: Bill would ban DeepSeek - Fox News",
+        "summary": "US lawmakers are introducing a bill that seeks to ban the Chinese artificial intelligence (AI) software DeepSeek from US government devices, citing direct links to the Chinese Communist Party and potential national security risks. Other AI developments include Perplexity AI's bid for TikTok US operations and the White House's initiative to solicit policy ideas to maintain US AI leadership. Celebrity investment in AI continues, as Sylvester Stallone backs Largo.ai, an AI-based analytics platform for the entertainment industry."
+      },
+      {
+        "title": "Fox News AI Newsletter: Bureaucrats ordered to use AI - Fox News",
+        "summary": "The U.S. National Security Council has released its first memo on artificial intelligence, instructing federal agencies to utilize top-tier AI systems, whilst also acknowledging the potential risks of this technology. Concerns were also raised about the U.S. lagging behind in terms of the electricity required for AI, according to O'Leary Ventures Chairman Kevin O'Leary. Additionally, an ongoing lawsuit emerged against AI company Character.AI, accused of contributing to a 14-year-old's suicide in Florida."
+      },
+      {
+        "title": "Wimbledon to Replace Line Judges with Artificial Intelligence Technology in 2025 - Bleacher Report",
+        "summary": "The All England Club has announced that the Wimbledon Championships will utilize artificial intelligence (AI) to make \"out\" and \"fault\" calls starting from 2025. The decision to implement this technology followed extensive testing and is aimed at eliminating human error and ensuring maximum accuracy in officiating. This marks the first time that AI will fully replace line judges during the tournament matches."
+      },
+      {
+        "title": "Wimbledon to Replace Line Judges with Artificial Intelligence Technology in 2025 - Bleacher Report",
+        "summary": "Wimbledon plans to replace line judges with artificial intelligence (AI) technology to make \"out\" and \"fault\" calls starting from 2025, says the All England Club. With extensive testing undertaken this past summer, the technology offers a robust tool to ensure maximum accuracy in officiating, according to Sally Bolton, the Club's CEO. The enrichment of the existing ball-tracking and line-calling technology marks a major step in balancing tradition and innovation in tennis tournaments."
+      },
+      {
+        "title": "Links for 2025-02-08 - substack.com",
+        "summary": "Artificial Intelligence developments are heading towards promising advancements, including AlphaGeometry2, which can solve Olympiad geometry problems at superhuman levels, and Self-play Long Language Model (LLM) Theorem Provers, which show significant improvement in formal theorem proving. In addition, Apple has proven self-driving AI can be learned entirely through self-play. Sam Altman from OpenAI predicts computers will perform tasks humans didn't think were possible in the near future and that AI will notably accelerate scientific discovery."
+      },
+      {
+        "title": "Fox News AI Newsletter: Microsoft goes nuclear - Fox News",
+        "summary": "Microsoft has signed a new agreement with Constellation Energy Corporation to power its data centers for artificial intelligence, leading to the potential restart of a nuclear reactor on Pennsylvania’s Three Mile Island, site of a 1979 partial meltdown. This comes amid ongoing debates about the ethical limits of AI, particularly in fields like medicine where its role in sensitive discussions like end-of-life care is being questioned. Meanwhile, the U.S. is preparing to host an artificial intelligence safety summit in November to align global tech goals and promote international collaboration."
+      },
+      {
+        "title": "'AI powerhouse': White House encourages Americans to provide ideas for artificial intelligence strategy - Fox News",
+        "summary": "The White House has launched an initiative to crowdsource policy ideas from the public related to its artificial intelligence (AI) strategy. In January, President Trump signed an executive order to develop an AI Action Plan, with the goal of maintaining U.S. global leadership in AI technology innovation. The Office of Science and Technology Policy is now seeking proposals until March 15, welcoming input from various sectors, including academia, industry groups, and governmental bodies. The plan will focus on enhancing the nation's AI prowess without imposing excessive restrictions on private sector innovation."
+      }
+    ],
+    "AI's confidence level": [
+      {
+        "title": "Road to safer self-driving cars is paved with deep learning - ISRAEL21c",
+        "summary": "A study at Bar-Ilan University has advanced understanding of confidence levels in deep learning AI, which has implications for various sectors, including self-driving vehicles and healthcare. The researchers found that AI systems can maintain significant confidence levels for many inputs without compromising their overall reliability. This breakthrough will aid in creating safer and more reliable autonomous systems by flexibly adjusting decision-making based on the system's confidence levels, promoting safety, and reducing error rates."
+      },
+      {
+        "title": "Internal auditors less confident on AI versus other threats - Accounting Today",
+        "summary": "A survey by business technology consulting firm Protiviti found that internal audit and IT professionals view AI and machine learning as significant technology risks for the future but have the least confidence in identifying and managing these risks compared to other technologies. Confidence in managing AI risks is particularly low, with just 13% expressing confidence in the ability of their IT audit teams to evaluate AI technology risks, and 17% feeling prepared to address these risks within a year. However, the study also reported that more than half of internal audit leaders are researching the potential use of AI in their organizations, suggesting a growing investment in understanding and preparing for these risks."
+      },
+      {
+        "title": "People are starting to trust AI more – and view it as more human-like - New Scientist",
+        "summary": "According to a year-long survey, people in the US are becoming increasingly trustful and receptive towards artificial intelligence (AI). Conducted by Myra Cheng at Stanford University, the survey revealed a shift in perception potentially due to engaging AI chatbots and effective marketing. It should be noted that these results may have important implications for how AI technologies are developed and implemented in the future."
+      },
+      {
+        "title": "Contemplating Sensible—And Rigorously—With Artificial Intelligence - tech-gate.org",
+        "summary": "The article titled \"Contemplating Sensible—And Rigorously—With Artificial Intelligence\" is only accessible to Aviation Week & Space Technology and AWIN subscribers. The content is expected to discuss emerging trends, technological advancements, operational best practices, and continuous updates relating to policies, requirements, and budgets concerning artificial intelligence in aviation."
+      },
+      {
+        "title": "Dawgz AI Crosses $500,000 in Presale: A New AI-Powered Meme Coin for Crypto Enthusiasts - Markets Insider",
+        "summary": "Dawgz AI, a blockchain-based, AI-powered meme coin project has generated over $500,000 of a targeted $960,000 during its presale. Built on the Ethereum blockchain, Dawgz AI's unique offering allows users to enjoy AI-driven returns without active or passive trading, an aspect that enhances profit potential while minimizing risk. In addition to its AI merits, the project has gained significant traction within the crypto community, as per increased visibility through talks on Reddit, crypto forums, and attention from major crypto media outlets, underscoring investors' growing confidence."
+      },
+      {
+        "title": "Nvidia stock touches record high after CEO Jensen Huang unveils AI's 'next frontier' at CES - Business Insider Africa",
+        "summary": "Nvidia shares reached a record high following CEO Jensen Huang's presentation at the 2025 Consumer Electronics Show, with the company unveiling its AI advancements in robotics, autonomous technology, and PCs. The expansion into robotics alone could represent a $1 trillion opportunity, potentially leading to a $5 trillion market valuation for Nvidia within 18 months, a 35% increase from its current valuation. Nvidia also announced an autonomous driving partnership with Toyota, predicted to help its auto division achieve an annual revenue run rate of $5 billion by 2026."
+      },
+      {
+        "title": "We don’t want AI writers in the newsroom, say humans - TNW",
+        "summary": "A majority of news readers from the UK and US are adverse to AI-generated journalism, according to a survey published in the Reuters Institute’s Digital News Report. Only 23% of US respondents and 10% of UK respondents indicated they were comfortable with AI-produced news, with greater discomfort expressed at the idea of AI's involvement in sensitive topic reporting. The survey also found the majority of respondents acceptable with AI's role in enhancing journalists' workflows, but express skepticism towards AI's role in content creation, particularly in generating images and videos."
+      },
+      {
+        "title": "Fact-checking, research: A case for taking AI's assistance in the law - Business Standard",
+        "summary": "Artificial intelligence (AI) is being used to help manage India's substantial backlog of over 50 million pending court cases. The Supreme Court has adopted AI tools for translating judicial documents, conducting legal research, automating processes, and transcribing oral arguments since February 2023. Open-source AI tools developed by projects like OpenNyAI, led by the National Judicial Data Grid, are assisting in this progress."
+      },
+      {
+        "title": "Newsrooms Are Already Using AI, But Ethical Considerations Are Uneven, AP Finds - Forbes",
+        "summary": "The Associated Press (AP) survey reveals that almost 75% of news industry professionals use generative AI, primarily for content production, but adoption of ethical guidelines is inconsistent across organizations. Many in the industry have reservations about the technology's transparency and reliability in tasks such as information gathering. Experts stress the need for a clear set of ethical standards for each newsroom to mitigate inaccuracies and misinformation, citing instances where unmonitored AI application led to the dissemination of false stories and offensive headlines, like in the case of Microsoft."
+      },
+      {
+        "title": "AI delivers ‘new era of global innovation’, research finds - Robotics and Automation News",
+        "summary": "According to the sixth annual International Innovation Barometer, 84% of businesses believe AI is positively impacting innovation in output and processes. The study also revealed a substantial shift in business priorities, with AI implementation ranking second only to the broader adoption of technology. AI is increasingly being used not only for process automation but also for idea generation and trend prediction, marking a shift in perception of AI as a tool for collaboration and creativity rather than just automation."
+      }
+    ],
+    "AI integration": [
+      {
+        "title": "Net Health and Tali to Launch Cutting-edge Integration with AI Technology – Company Announcement - Financial Times",
+        "summary": "Net Health, a leading healthcare technology company, has partnered with Tali, an AI assistant and clinical documentation solution, to integrate AI technology into healthcare documentation. This integration is aimed at streamlining workflows, improving accuracy, and allowing clinicians to dedicate more time to patients by using Tali's voice-enabled AI assistant for clinical documentation. The service will be incorporated into various Net Health EHRs such as Optima, ReDoc, TherapySource, and WoundExpert, potentially improving the quality of care and reducing provider burnout."
+      },
+      {
+        "title": "INDEX Holding leads industry change with advanced AI and technology integration - The Jerusalem Post",
+        "summary": "INDEX Holding is integrating artificial intelligence (AI) technology across its subsidiaries, revolutionizing business operations and significantly boosting revenue growth. The organization's commitment to technological innovation was acknowledged at the World CIO 200 Summit UAE Edition 2024 with several awards. The integration of AI has notably positively impacted INDEX's conferences and exhibitions subsidiary, enhancing efficiency and contributing to a 10% increase in trade deals, totalling $49 billion. The initiative is in line with the UAE's emphasis on AI's role in business and everyday life, enabling INDEX to remain at the forefront of industry trends."
+      },
+      {
+        "title": "Expedia Group CEO Discusses AI Integration in Business Operations - Hotel News Resource",
+        "summary": "Expedia Group CEO, Ariane Gorin, has revealed the firm's widespread testing of artificial intelligence (AI) tools across its operations. In a speech at The Phocuswright Conference 2024, Gorin described ongoing AI trials involving customer service, product reviews, and destination insights. The travel firm is also using a new AI planning tool, Romie, and considering the use of generative AI in future trip planning. Additionally, AI is expected to play a significant role in developing marketing strategies and enhancing partner support."
+      },
+      {
+        "title": "RESAAS Integrates AI into Commercial Data Exchange Platform, Streamlining Data Integration for Brokerages and Landlords – Company Announcement - FT.com - Financial Times",
+        "summary": "Real estate technology solutions provider, RESAAS Services Inc, has integrated AI into its Commercial Data Exchange platform, automating the data integration process for brokerages and landlords. This AI enhancement simplifies the synchronization of data in real time, eliminating manual methods otherwise susceptible to human error. The move also accelerates the company's pursuit of a fully self-serve data platform by making it easy for clients with older infrastructure to onboard their data more efficiently."
+      },
+      {
+        "title": "RESAAS Integrates AI into Commercial Data Exchange Platform, Streamlining Data Integration for Brokerages and Landlords – Company Announcement - FT.com - Financial Times",
+        "summary": "RESAAS Services Inc, a technology provider for the real estate industry, has integrated AI into its Commercial Data Exchange platform (CODE). The enhancement will allow brokerages and landlords to integrate their data into the platform seamlessly and in real-time. This evolution is a significant step towards creating a fully self-serve data platform, streamlining data exchange, eliminating manual processes, and barriers to entry for users. This development could also spur the platform's growth, as it eases the onboarding process for both landlords and brokerages."
+      },
+      {
+        "title": "e& UAE Completes First Phase of AI Integration in Partnership With Intel and Cisco - The Fintech Times",
+        "summary": "e& UAE, in partnership with Intel and Cisco, has completed the first phase of integrating AI into its private cloud system, aiming to enhance operational efficiency and customer service. Using Intel's Advanced Matrix Extensions technology and Cisco's data centre solutions, this AI-powered initiative will optimize e& UAE's operational tasks including analysis of large datasets, workload migration to the cloud, and improving customer support. The move aligns with e& UAE’s broader AI strategy of leveraging AI and data analytics to drive operational excellence and sustainability."
+      },
+      {
+        "title": "Sasi Kiran Parasa Wins a 2024 Global Recognition Award for Pioneering AI Integration in HR Technology - Markets Insider",
+        "summary": "Sasi Kiran Parasa, a Senior HRIS Engineer at MongoDB, has won a 2024 Global Recognition Award for his significant contributions to HR technology, specifically for the successful integration of AI into HR processes. Parasa's work has considerably improved efficiency and raised industry standards for human capital management, notably by implementing AI-powered solutions to enhance recruitment, performance management, and overall HR operations. His innovations have influenced broader trends within the HR sector towards strategic, data-informed practices, and he continues to drive advancements through continuous learning and thought leadership."
+      },
+      {
+        "title": "RESAAS Integrates AI into Commercial Data Exchange Platform, Streamlining Data Integration for Brokerages and Landlords – Company Announcement - FT.com - Financial Times",
+        "summary": "RESAAS Services Inc, a leading technology solutions firm for the real estate sector, has upgraded its Commercial Data Exchange platform (CODE) through the integration of advanced AI capabilities. This new feature will optimize data movement for brokerages and landlords, automating data synchronization in real time and removing manual processes. The enhancement is aimed at streamlining integration with various internal systems used by clients, especially those using older infrastructure."
+      },
+      {
+        "title": "Gaurav Basra Honored with a 2024 Global Recognition Award for Ethical Leadership in Conversational AI - Markets Insider",
+        "summary": "Gaurav Basra, Chief Technology Officer of SSC.AI, formerly known as SiteStaff Chat, has won the 2024 Global Recognition Award for his trailblazing work in conversational artificial intelligence (AI) that upholds ethical standards. Recognized for transforming customer engagement by marrying automation with human expertise, his work has helped redefine customer interactions and set responsible technology use standards across the industry. His Integrated Conversational Platform, which augments rather than replaces human roles, marks a significant step towards tech-human collaboration, emphasizing business growth and social responsibility."
+      },
+      {
+        "title": "BYD's new self-driving tech aims to rival Tesla with DeepSeek AI integration - The Express Tribune",
+        "summary": "Chinese automaker BYD is set to introduce advanced self-driving technology, with AI startup DeepSeek software integration, across almost all its vehicle range, including budget models below $10,000. The strategic partnership with DeepSeek is an attempt to compete with international firms, while simultaneously marking a significant shift in BYD's strategy, moving from price cutting to advanced feature implementation. However, this could complicate BYD's entry into Western markets due to national security concerns surrounding Chinese technology. The decision to incorporate AI into budget vehicles is expected to shape the future of the electric vehicle industry and enhance BYD's position as a prominent EV manufacturer in China."
+      }
+    ],
+    "machine learning": [
+      {
+        "title": "Advanced Machine Learning Model Achieves 97.97% Accuracy in Earthquake Forecasting for High-Risk Areas - EIN News",
+        "summary": "Researchers from Georgia Southern University have developed an advanced machine learning model that can forecast earthquakes with 97.97% accuracy. The model provides a significant improvement over traditional methods in predicting seismic activities, particularly in high-risk regions, representing a powerful tool for disaster preparedness and risk management. The United Nations recognized the research for its potential contributions in enhancing public safety in earthquake-prone areas."
+      },
+      {
+        "title": "Machine Learning Revolutionizes Organ Transplant Compatibility Predictions - Evrim Ağacı",
+        "summary": "Researchers at UNC Hospitals have developed machine learning models that can predict organ transplant compatibility with greater accuracy and efficiency. The models use machine learning algorithms to analyze human leukocyte antigen (HLA) profiles and identify donor-specific antibodies, resulting in improved transplantation success rates. Despite some challenges in acknowledging certain antibodies' significance, the machine learning method vastly outperformed traditional compatibility assessments, implying that the technology could help meet increasing organ transplant demand."
+      },
+      {
+        "title": "Machine Learning Transforms Estimation Of Sonic Log Data - Evrim Ağacı",
+        "summary": "A new study has leveraged machine learning (ML) to accurately predict missing and unreliable values within Dipole Shear Sonic Imager (DSI) logs, which are crucial for seismic analysis and reservoir characterization in the oil and gas sector. The research implemented eight ML models on data from two wells in southern Iran, with the Random Forest model emerging as the most efficient and robust. These findings might have significant implications for reservoir management, underscoring the broader applicability of artificial intelligence in analyzing complex datasets."
+      },
+      {
+        "title": "Revolutionary Machine Learning IDS Enhances IoT Security - Evrim Ağacı",
+        "summary": "Researchers from King Saud University have developed a machine learning-based intrusion detection system (IDS) to improve Internet of Things (IoT) security. The IDS uses statistical feature selection methods to enhance detection accuracy, lowering the computational overhead typically experienced when processing large datasets. The study claims to achieve over 99% accuracy, precision, recall, and F1-Score when tested on specific datasets. The research highlights the need for adaptive systems to tackle cybersecurity challenges, as the number of devices connected to the internet is expected to reach over 400 billion by 2030. Future research could explore deep learning models to increase detection accuracy and applicability."
+      },
+      {
+        "title": "New Machine Learning Models Predict Breast Cancer Recurrence - Evrim Ağacı",
+        "summary": "A recent study has utilized machine learning models to predict breast cancer recurrence and metastasis, based on a comprehensive dataset of 272,252 entries from reputable sources. The research, which employed three advanced machine learning models - LightGBM, XGBoost, and Random Forest, focuses on three predictive strategies: assessing recurrence risk, distinguishing local from distant recurrences, and identifying potential metastatic sites. The findings indicate a promise for enhancing breast cancer clinical practices and emphasize the broader healthcare implications, with future enhancements expected through integration of genetic data and diverse datasets."
+      },
+      {
+        "title": "Machine Learning Enhances Pollen Performance Predictions For Pome Fruits - Evrim Ağacı",
+        "summary": "A study published in Scientific Reports has utilized machine learning to predict pollen germination rates for pome fruits, a vital step for improving agricultural resilience against climate change threats. The research, which focused on apple, pear, quince, and persimmon cultivars, used artificial intelligence tools to analyze the effects of varying conditions on pollen viability. The research suggests machine learning can contribute significantly to agricultural productivity by accurately predicting pollen germination rates under real-world environmental changes, allowing farmers to adapt their practices and maintain yield in the face of climate fluctuations."
+      },
+      {
+        "title": "Machine Learning Models Revolutionize Hemodialysis Membrane Development - Evrim Ağacı",
+        "summary": "Machine learning is being employed to revolutionize the development of hemodialysis membranes by predicting the interaction affinity energy between human serum proteins and membrane materials. This advancement can improve patient safety and device performance, addressing complications from incompatibility such as thrombosis, infections, and fatalities. Researchers have used algorithms like random forest and XGBoost to create predictive models from a comprehensive dataset, potentially accelerating the development of safer hemodialysis membranes and enhancing patient care."
+      },
+      {
+        "title": "New Machine Learning Model Predicts COVID-19 Hospitalizations For Children - Evrim Ağacı",
+        "summary": "Researchers from Malaysia have developed a machine learning model to predict hospitalizations for pediatric COVID-19 patients, aiding decision-making in healthcare settings. The model uses the Adaptive Boosting (AdaBoost) algorithm, which showed high accuracy in predicting the need for inpatient care among children diagnosed with COVID-19. Although the model's viability is yet to be tested across broader populations, it provides an effective tool for hospital resource management, and could be adapted to predict hospitalizations for other pediatric illnesses in the future."
+      },
+      {
+        "title": "Scientists Optimize Date Seed Milling With Neural Networks - Evrim Ağacı",
+        "summary": "Scientists from Taif University and Al-Azhar University have successfully developed a compact milling unit for date seeds, utilizing neural networks for optimal operation. The research aims to increase date seed utility, an often underutilized by-product rich in nutritional value, and addresses agricultural waste. The findings open up possibilities for sustainable practices within agriculture, potentially revolutionizing waste valorization processes. The innovation also highlights the potential of machine learning in boosting productivity, lowering operational costs, and minimizing environmental impact."
+      },
+      {
+        "title": "Machine Learning Models Predict Fertility Rates Among Ethiopian Women - Evrim Ağacı",
+        "summary": "Machine learning (ML) models have been used in a groundbreaking study to predict fertility rates among Ethiopian women. Utilizing data from 5,864 women, eight different ML models were tested with the random forest model found to be the most effective, achieving an accuracy of 90.1%. The study also identified family size, age, occupation, and education as key predictors of fertility rates, highlighting a discrepancy between urban and rural areas. Findings will provide actionable data to shape public health interventions and help manage fertility rates effectively."
+      }
+    ],
+    "AI system for stroke rehabilitation assessment": [
+      {
+        "title": "AI Stroke Scans Double Accuracy of Current Methods - Mirage News",
+        "summary": "Researchers from Imperial College London, Technical University of Munich, and Edinburgh University have developed an AI software that reads brain scans of patients who've had a stroke, accurately determines when the stroke occurred, and assesses if the damage is reversible. The system is reported to be twice as effective as the standard method of visual assessment by a medical professional. The team estimates that their software could lead to appropriate treatments for up to 50% more stroke patients and intends to implement it within the NHS."
+      },
+      {
+        "title": "FDA nod broadens use of Brainomix's stroke AI - pharmaphorum",
+        "summary": "The FDA has approved a new feature for Brainomix's AI-powered stroke imaging software that allows doctors to assess the volume of brain tissue affected by a stroke from computed tomography (CT) scans without using contrast agents. This broadens the use of Brainomix 360 Stroke software as it can now be used in non-contrast CT images, which make up about 60% of all CT scans conducted in the US. The feature has demonstrated equivalency to CT perfusion and MRI-derived core volume assessments, potentially increasing the accessibility of endovascular therapy."
+      },
+      {
+        "title": "Medtronic inks stroke AI partnership with European developer Methinks - Fierce Biotech",
+        "summary": "Medtronic, a medtech giant, has partnered with Barcelona-based Methinks AI to develop a program that detects strokes from patient imaging scans. The partnership aims to integrate Methinks AI's applications with Medtronic's ischemic stroke treatment hardware and streamline the triage process and care coordination, starting in Central and Eastern Europe, Africa, Turkey, and the Middle East. The software, which spots large vessel occlusions and intracranial hemorrhages from standard CT scans, is designed to help providers without access to advanced imaging equipment reduce delays in stroke therapy."
+      },
+      {
+        "title": "Medtronic partners with Brainomix on AI stroke tool - MedTech Dive",
+        "summary": "Medtronic has partnered with Brainomix to fast-track the adoption of the latter's AI-powered tool for stroke patients assessment. The agreement will leverage Medtronic's Western European presence for the technology's rollout, aided by its existing network of healthcare providers and hospitals treating stroke patients. Brainomix's AI tool has shown increased identification of stroke patients eligible for clot removal treatments, complementing Medtronic's product offerings like the Solitaire X revascularization device."
+      },
+      {
+        "title": "Transforming diagnosis through artificial intelligence - Nature.com",
+        "summary": "Artificial intelligence (AI) is increasingly being integrated into healthcare, significantly altering diagnostic routines for conditions such as strokes. AI tools can provide instant communication of scans to medical teams and predict outcomes such as potential for surgical recovery. A five-year study of AI in stroke diagnosis in the UK indicates that clinicians are adapting, using AI recommendations as starting points for diagnosis and validating them against medical standards and expert opinions. While preliminary findings suggest AI can improve accuracy and speed of diagnosis, further research is needed to manage potential risks and ethical challenges, understand AI's impact on professional roles and expertise, and examine implications for patients."
+      },
+      {
+        "title": "CareDirections, Carium Launches AI-Powered Platform For Stroke Recovery - HIT Consultant",
+        "summary": "CareDirections and Carium have launched StrokeCP, an AI-powered digital health platform developed to revolutionize post-stroke care. Based on research from Atrium Health Wake Forest Baptist and using Carium's patient engagement technology, StrokeCP is expected to improve patient outcomes and reduce healthcare costs. Key features of the platform include personalized care plans, remote patient monitoring and coaching, bi-directional EHR integration, and a focus on social determinants of health. The platform also aims to reduce racial and ethnic disparities in stroke incidence and recovery."
+      },
+      {
+        "title": "Leveraging 'explainable AI' to resolve Japan's growing stroke threat - Mobihealth News",
+        "summary": "Japanese startup Cardio Intelligence has developed an AI-powered system, SmartRobin AI, capable of detecting atrial fibrillation (AFib), an undiagnosed condition in approximately a million people in Japan that increases stroke risk. The AI, which has received medical device approval, can analyze seven-day electrocardiograms (ECGs) in 15 minutes and offers 97% sensitivity and 95% specificity in AFib detection. The goal of the system is to improve the diagnosis rate of paroxysmal AFib, enhance patient outcomes, and reduce healthcare costs related to advanced heart disease."
+      },
+      {
+        "title": "Mobile face screening tool detects stroke 'in seconds' - Mobihealth News",
+        "summary": "Researchers at RMIT University have developed an AI-powered smartphone feature that can detect strokes by analyzing facial symmetry and muscle movements. The tool, which achieved 82% accuracy in testing, can be used by first responders to provide immediate screenings. The team is now looking to partner with healthcare providers to make the tool into a mobile app, and potentially expand its use to other neurological conditions."
+      },
+      {
+        "title": "NICE backs two AIs for stroke diagnosis in NHS - pharmaphorum",
+        "summary": "UK's National Institute for Health and Care Excellence (NICE) has approved two artificial intelligence (AI)-powered tools, e-Stroke and RapidAI, for use in the NHS to help detect strokes from CT brain scans. NICE suggests the software can be used while further evidence of their cost-effectiveness is collected. These tools are already prevalent, with AI deployed in 99 of 107 stroke units in England at the time of analysis. However, the approval comes with caution that the software should only be used alongside healthcare professionals and existing scan reporting protocols should be maintained to mitigate the risk of incorrect results."
+      },
+      {
+        "title": "Hyperfine Reports on Growing Evidence for the Use of Swoop® System Images in Stroke Diagnosis Presented at the 2025 International Stroke Conference – Company Announcement - FT.com - Financial Times",
+        "summary": "Hyperfine, a pioneering health tech company, has presented data supporting the use of its AI-powered portable magnetic resonance (MR) imaging system, Swoop, for diagnosis of acute ischemic strokes. The evidence was presented at the 2025 International Stroke Conference and showed that images from the Swoop system enabled accurate detection and differentiation of strokes, leading to quicker decision-making in acute stroke management. The study's findings could promote the implementation of more effective treatments and improve patient outcomes globally."
+      }
+    ],
+    "large language models": [
+      {
+        "title": "Large Language Models Emerge As Solutions For MRI Appropriateness - Evrim Ağacı",
+        "summary": "Large Language Models (LLMs), specifically the optimized version of the GPT-4 model, are demonstrating increased potential as clinical decision aids, outperforming traditional methods in evaluating the appropriateness of musculoskeletal MRI scans. A study conducted at Singapore General Hospital found the model had an accuracy rate of 92.86% when examining 70 fictional cases against traditional methods and clinician performance. While the results offer promising insights into the efficient application of AI tools, the findings also underscore the need for continued research to navigate challenges related to the complexity of medical contexts and variations across institutional protocols."
+      },
+      {
+        "title": "AIs get worse at answering simple questions as they get bigger - New Scientist",
+        "summary": "A study has found that large language models (LLMs), used in AI, may become less reliable at answering simple questions as they expand and learn from human feedback. The research, which tested AI models including OpenAI's GPT series and Meta's LLaMA, revealed that while improved performance on complex tasks was noted when the models were scaled up, it did not correlate with improved performance on more basic questions. The study underscores concerns over overreliance on AI systems and their inability to understand the limits of their own knowledge."
+      },
+      {
+        "title": "Over half of American adults have used an AI chatbot, survey finds - NBC News",
+        "summary": "Over half of US adults have used an AI chatbot, and 34% of them use large language models on a daily basis, according to a survey conducted by Elon University. The study found that 38% of users believe such models will form profound relationships with humans, with a broad variety of personality characteristics expressed by the models. The survey also outlined potential worries, with 63% of respondents fearing that AI could replace a significant portion of human communication and 59% concerned it could lead to job losses."
+      },
+      {
+        "title": "The TechCrunch AI glossary - TechCrunch",
+        "summary": "TechCrunch has published an artificial intelligence (AI) glossary, a comprehensive list with definitions of key AI-related terms used in their coverage, aimed at helping readers understand the complex sector. The glossary contains explanations of various jargon used in the AI world, including definitions for terms like \"AI agent\", \"Chain of thought\", \"Deep Learning\", \"Fine Tuning\", \"Large Language Model (LLM)\", \"Neural Network\", and \"Weights\". The publication plans to update this glossary regularly to accommodate new terms as AI research and development continues its rapid pace."
+      },
+      {
+        "title": "How Generative AI and Large Language Models Can Help Manifest Your Ambitions - Head Topics",
+        "summary": "The belief in manifesting one's ideas and ambitions can be significantly bolstered by generative Artificial Intelligence (AI) and Large Language Models (LLMs), according to a column by ForbesTech. The AI technology supports manifestation efforts by providing realistic feedback without undermining the individual's goals, thus eliminating the potential negative impact from human interactions. The column, which also discusses AI applications in healthcare, highlights the role of AI in realizing ambitions beyond its traditional usage."
+      },
+      {
+        "title": "New Framework Uses Language Models For Effective Cybersecurity Anomaly Detection - Evrim Ağacı",
+        "summary": "The Tabular Anomaly Detection via Guided Prompts (TAD-GP) framework, a new development in cybersecurity, uses large language models (LLMs) to enhance anomaly detection in tabular data. TAD-GP has demonstrated superior performance on multiple benchmark datasets including KDD Cup 1999 and CICIDS2017, with reduced resource requirements and increased efficiency. Its potential applications include sectors like healthcare, finance, and logistics—where detecting subtle deviations can prevent significant losses— and it could revolutionize how organizations approach anomaly detection."
+      },
+      {
+        "title": "Study: AI firms train models using more premium publisher data than they let on - Axios",
+        "summary": "A study by digital media company Ziff Davis reveals that major AI firms including OpenAI, Google, and Meta heavily rely on content from premium publishers to train their large language models (LLMs). The report suggests AI firms are using more of the premium publisher content than they declare publicly. The findings could potentially give the publishers leverage to seek copyright protections and compensation. Furthermore, Ziff Davis suggests that the older public datasets used for older LLMs are still influencing the training of the newer models."
+      },
+      {
+        "title": "LLMs have become a weapon of information warfare - TNW",
+        "summary": "Propaganda network CopyCop, linked with Russia, is using large language models (LLMs) to manipulate and disseminate news on a vast scale, according to threat intelligence firm Recorded Future. By translating and tailoring content to specific audiences and political biases, the network reportedly uses inauthentic media sites to spread unconventionally effective information warfare. The use of AI in this manner underscores the potential for LLMs to be weaponized in informational conflicts, presenting worrisome implications for the influence of false and manipulated information on public perception."
+      },
+      {
+        "title": "Vodafone CTO warns of Big Tech lock-in with generative AI - Light Reading",
+        "summary": "Vodafone's CTO, Scott Petty, has expressed concerns about the potential for \"lock-in\" with big tech companies in relation to the development and implementation of generative artificial intelligence (AI). By utilising the AI services of such tech giants, telcos risk being unable to freely move their operations or data. Although Vodafone is currently avoiding this by dividing its workload between several public cloud platforms, the company is apprehensive about an AI 'arms race' leading to an end-to-end lock-in scenario. Petty stressed the need for flexibility and commercial control, as well as an open approach to how large language models work. However, he also acknowledged the superior efficiency of generative AI in tasks like summarizing call histories."
+      },
+      {
+        "title": "A new way to let AI chatbots converse all day without crashing - MIT News",
+        "summary": "Researchers from MIT and other institutions have developed a technique, called StreamingLLM, that allows AI chatbots to sustain continuous dialogue without performance deterioration. The method involves modifying the key-value cache, which functions as the bot’s conversation memory, to ensure the first few data points in a conversation remain intact. The StreamingLLM technique shows faster performance and maintains efficiency in prolonged discussions involving over 4 million words. This could facilitate long-lasting conversations in AI applications, such as copywriting, editing, or code generation. This mechanism has been incorporated into NVIDIA's large language model optimization library, TensorRT-LLM."
+      }
+    ],
+    "databases": [
+      {
+        "title": "Google’s Gemini comes to databases - TechCrunch",
+        "summary": "At its Cloud Next conference, Google previewed Gemini in Databases, a suite of AI-powered tools for app database creation, monitoring, and migration on Google Cloud. It includes Database Studio, an editor for structured query language (SQL), AI-assisted migrations, and the Database Center that allows users to interact with databases using natural language. Google is also integrating Gemini into Looker, its business intelligence tool, for conversational analytics, report and formula generation. The move can be seen as a response to Microsoft's Azure SQL Database Copilot, dealing a blow in the ongoing AI-driven database race."
+      },
+      {
+        "title": "Italian Intelligence Scandal Unfolds: Heirs, Databases, and Illegal Access - Devdiscourse",
+        "summary": "Four individuals, including Leonardo Maria Del Vecchio, heir of Luxottica founder, have been placed under house arrest in Italy, following an investigation into unauthorized access to state databases. The probe implicates a private intelligence firm run by a former policeman, which is alleged to have accessed information on suspicious financial activities, taxpayer data, and police inquiries. The scandal underscores a burgeoning market for confidential information and an alarming shift towards business-oriented intelligence activities."
+      },
+      {
+        "title": "Italy police arrest four over alleged illegal database access - Dunya News",
+        "summary": "Italian police have arrested four individuals, including Leonardo Maria Del Vecchio, son of the late billionaire founder of Luxottica, on charges of illegal access to state databases. Reportedly conducted by a private intelligence company run by an ex-policeman, at Del Vecchio's behest, the alleged cyber intrusion targeted databases involving financial activity alerts, citizen banking transactions, and police investigations. This case highlights the emerging concern over a growing \"market for confidential information\" according to the national anti-mafia prosecutor."
+      },
+      {
+        "title": "Oracle 'alive and well' amid new partnership with Amazon Web Services - Yahoo Finance",
+        "summary": "In a significant shift from a decade-long competition, Amazon Web Services (AWS) is entering a partnership with Oracle that will enable customers to use Oracle Autonomous Database and Oracle Exadata Database Service within AWS. The collaboration is expected to enhance data integration and database management. Following this news, Oracle's stocks surged by 12% while Amazon's increased by 2%. The partnership reflects a broader strategy from AWS amid the AI boom and is expected to be highly advantageous for the customers."
+      },
+      {
+        "title": "The Rise of Pinecone: Revolutionizing Vector Databases for Modern AI - Global Village space",
+        "summary": "The article discusses the significant growth of Pinecone, and how it is transforming the use of vector databases in contemporary artificial intelligence technology. Pinecone is working towards creating efficient, scalable solutions for vector database management, which could potentially revolutionize the AI industry."
+      },
+      {
+        "title": "Oracle Meets AWS: New Partnership Delivers Best Of Two Cloud Worlds - Forbes",
+        "summary": "Oracle and Amazon Web Services (AWS) have announced a partnership to launch Oracle Database@AWS, allowing customers to access Oracle Autonomous Database and Oracle Exadata Database Service on AWS infrastructure. The integrated service combines Oracle's advanced database technologies with AWS's scalability and global reach, providing several benefits, including a unified cloud experience, low-latency connectivity, seamless data integration, zero-ETL integration, and joint support. This partnership enhances the accessibility and adoption of Oracle's database services, expands AWS’s portfolio to new enterprise customers, and simplifies management in a growing multi-cloud environment."
+      },
+      {
+        "title": "Credit Union of Texas taps Alkami for business banking platform - FinTech Futures",
+        "summary": "Credit Union of Texas (CUTX) has partnered with digital banking solutions provider Alkami to use its business banking platform. This partnership will offer a broader range of banking and financial services to CUTX's customers and expand its commercial market reach. The Alkami platform provides financial institutions with customer onboarding, increased product adoption, engagement, payment solutions, and actionable reporting."
+      },
+      {
+        "title": "EMTECH Successfully Pilots Its Web3-based Digital Cash Infrastructure Solution With Bank of Ghana - FinTech Futures",
+        "summary": "Modern Central Banking Infrastructure company, EMTECH, has completed a successful 12-week strategic pilot of its Web3-based Digital Cash Infrastructure solution in collaboration with the Bank of Ghana, marking its latest technical partnership with this institution. The Bank of Ghana selected 10 participants from a pool of 88 applicants to prototype solutions on EMTECH’s Beyond Cash™ solution. EMTECH’s Web3-enabled technology aims to make finance more inclusive and resilient; it affords the possibility of interoperating with established payment rails and safely building new financial products."
+      },
+      {
+        "title": "Constellation and Pulsate Partner to Deliver Enhanced Relationship Banking Capabilities Through The Mobile ... - FinTech Futures",
+        "summary": "Constellation Digital Partners, a provider of cloud-native digital banking services, announced a partnership with Pulsate, an engagement platform specializing in personalized member communications. The partnership enables users of Constellation's Digital Banking platform to further improve customer engagement via personalized, timely communications enabled by Pulsate’s mobile-first platform. The collaboration also supports credit unions in their transition to digital banking by providing them the flexibility to develop bespoke fintech solutions and manage their own technology roadmaps."
+      },
+      {
+        "title": "Hitch Interactive Unveils Generative AI Within Programmable NFTs, Forging a New Era for Web3 - FinTech Futures",
+        "summary": "Hitch Interactive has announced the integration of large language models (LLMs) with its Immutable Miniverse NFTs, offering a new level of utility and functionality to NFTs. The service, dubbed AI in Immutable Miniverse (AIIM), lets owners and viewers interact with the embedded NFTs. This innovation combines the capabilities of LLMs with the immutability and decentralization of NFTs, setting the stage for decentralized AI applications over Web3. The system respects user privacy, not recording or sharing user data with any entity."
+      }
+    ],
+    "LLM-integrated applications": [
+      {
+        "title": "Researchers at the University of Toronto Introduce a Deep-Learning Model that Outperforms Google AI System to Predict Peptide Structures - MarkTechPost",
+        "summary": "Researchers at the University of Toronto developed a deep-learning model called PepFlow, which excels at predicting a broad range of peptide structures, outperforming Google's AI AlphaFold2. PepFlow uses a diffusion framework and a hypernetwork to model dynamic peptide structures accurately and efficiently, surpassing AlphaFold2's capabilities which are limited to static protein structures. This development enables deeper understanding of peptides for therapeutic uses, facilitating the design of peptide-based drugs, and promises significant advancements in biomolecular modeling."
+      },
+      {
+        "title": "Global Telco AI Alliance forms joint venture to build telco LLMs - Light Reading",
+        "summary": "The Global Telco AI Alliance (GTAA), including Singtel, Deutsche Telekom, e&, SK Telecom, and SoftBank, has agreed to develop multilingual Large Language Models (LLMs) tailored for telecom companies. The joint venture, announced four months after GTAA's establishment, aims to improve customer interactions with AI applications for telcos, bringing more efficient deployment of generative AI models. The venture awaits customary approvals and is expected to create new business opportunities and enhance customer experiences for an estimated 1.3 billion global customer base across 50 countries."
+      },
+      {
+        "title": "Indonesia's IOH and GoTo Group launch Sahabat-AI for local languages - Light Reading",
+        "summary": "Indosat Ooredoo Hutchison (IOH) and technology firm GoTo Gojek Tokopedia (GoTo Group) have launched Sahabat-AI, a significant AI model focused on Indonesian and local languages. Aimed at driving AI development in Indonesia, Sahabat-AI will help create AI-based services and applications in the local context. The project, supported by AI Singapore and Tech Mahindra, highlights IOH and GoTo Group's commitment to democratize AI and promote growth and innovation in Indonesia."
+      },
+      {
+        "title": "Ant International’s Risk Tech Solutions Win WDTA AI STR-02 Certification - FinTech Futures",
+        "summary": "AlipayHK, operated by Ant International, has become one of the first global tech entities to receive a security certification on Large Language Model (LLM) applications by the World Digital Technology Academy (WDTA). The certification is part of WDTA's AI Safety, Trust, and Responsibility (AI STR) standards, acknowledging Ant International's robust risk tech capabilities. In implementing its Risk S.H.I.E.L.D strategy, Ant International facilitates 500,000 automated risk assessments daily, enhancing the security of transactions across a network of over 1.7 billion users and 90 million merchants."
+      },
+      {
+        "title": "Chinese telcos quickly integrate DeepSeek into their infrastructure - RCR Wireless News",
+        "summary": "China's three major telecommunications firms, China Telecom, China Mobile, and China Unicom, are fully integrating AI startup DeepSeek's large language model (LLM) into their AI capabilities and infrastructures. DeepSeek, which gained attention for its R1 LLM's cost-effective, advanced capabilities, is already being adopted by other Chinese tech giants such as Alibaba Group, Tencent Holdings, and Baidu Inc. This news has caused a stir in U.S. financial markets, and concerns have arisen over potential security risks as Canadian cybersecurity firm Feroot Security highlighted that user login information could be transmitted to state-owned China Mobile through the DeepSeek AI Chatbot."
+      },
+      {
+        "title": "Highlights from FTC's 2024 PrivacyCon - AI - The National Law Review",
+        "summary": "The Federal Trade Commission's PrivacyCon event highlighted key considerations around the use of artificial intelligence (AI) in healthcare. The event noted privacy concerns around AI, including the potential misuse of data, lack of transparency, and surveillance risks. Large Language Models (LLMs) were also discussed, with the focus on addressing privacy, safety, and potential threats from third-party ecosystem plugins. The importance of data validation was emphasized, as individuals often blindly trust AI's output, which can lead to errors in healthcare settings. The event called for healthcare organizations to establish committees to oversee AI governance, compliance, and to address the challenges presented by AI use."
+      },
+      {
+        "title": "Microsoft Introduces SPREADSHEETLLM for Efficient Spreadsheet Understanding – AIM - AIM",
+        "summary": "Microsoft researchers have developed SPREADSHEETLLM, a new framework that improves the ability of Large Language Models (LLMs) to process and analyze complex spreadsheet data, reducing computational costs. Key features include an innovative encoding method, SHEETCOMPRESSOR, reducing spreadsheets size by up to 96%, and \"structural anchor extraction\" that preserves essential layout information. The framework could lead to more intelligent and efficient interactions with spreadsheet data in various applications. Preliminary experiments highlight a 12.3% higher performance on tasks related to spreadsheet table detection compared to previous methods."
+      },
+      {
+        "title": "Reliable & Trustworthy LLMs: RagaAI Open-Sources the most comprehensive Platform for Evaluation & Guardrails - Markets Insider",
+        "summary": "RagaAI, a leading AI testing company, has launched a comprehensive open-source and enterprise-level evaluation and guardrails platform for Language Model (LLM) and Retrieval Augmented Generation (RAG) applications. The platform uses over 100 meticulously designed metrics to identify issues throughout the LLM lifecycle, offering unparalleled insights into the reliability and trustworthiness of these applications. Already used in industries including e-commerce, finance and healthcare, the RagaAI LLM Hub also promotes ethical AI practices by ensuring compliance with data privacy and legal regulations."
+      },
+      {
+        "title": "The Future of LLMs in Healthcare: 5 Clinical Use Cases - HealthTech Magazine",
+        "summary": "Large Language Models (LLMs), defined as AI models trained to understand and produce content, are being constantly updated for use within healthcare, with the goal to enhance productivity and patient care. The models have found applications in facilitating patient communication, analyzing unstructured data for insights into patient conditions, and generating billing codes. They also show potential for tasks like disease management, prior authorization, and integrating with Electronic Health Record (EHR) systems. However, concerns remain around accuracy, potential bias, data privacy issues, and the inherent generation of erroneous outputs. Experts advise continuous testing, evaluation, and user feedback to improve LLM implementation."
+      },
+      {
+        "title": "DeepSeek’s Flagship AI Model Under Fire for Security Vulnerabilities - Infosecurity Magazine",
+        "summary": "DeepSeek, a Chinese startup, is facing scrutiny over its large language model (LLM), R1, amid revelations of multiple security vulnerabilities. The AI model has shown poor performance in newly launched security benchmarks aimed at testing resistance to prompt injection attacks. Reports have identified issues including a high susceptibility to cyber threats, successful jailbreaking through multiple well-known techniques, and struggle distinguishing between data and instructions. DeepSeek has yet to respond to these concerns."
+      }
+    ],
+    "software engineering": [
+      {
+        "title": "CGI completes acquisition of UK-based BJSS, deepening its presence across key commercial industries and public sector - StockTitan",
+        "summary": "CGI has completed the acquisition of UK-based technology and engineering consultancy, BJSS, expanding its workforce in the UK to over 8,500 as it integrates BJSS’s 2,400 professionals. The acquisition enhances CGI’s capabilities in cloud, AI, data analytics, and software engineering. This strategic move aligns with CGI's goal to expand its consulting-led services, driving innovation for commercial and public sector clients, especially within the retail, financial services, healthcare, energy, and public sectors."
+      },
+      {
+        "title": "Kyndryl Establishes Technology Hub in Liverpool to Create Up to 1,000 AI-related and Software Engineering Jobs - Financial Times",
+        "summary": "Kyndryl, the world's largest IT infrastructure services provider, is establishing a technology hub in Liverpool, where it plans to create up to 1,000 AI-related and software engineering jobs in the next three years. The hub will support digital transformation across the UK, aligning with the UK government's plan to position the country as a global leader in AI. The company is also expanding its partnership with Liverpool-based digital retailer The Very Group, marking Kyndryl's commitment to drive economic growth through digital innovation, AI adoption, and talent development."
+      },
+      {
+        "title": "Sabyasachi Mondal Wins 2024 Global Recognition Award for Innovation and Leadership - Markets Insider",
+        "summary": "Software engineer Sabyasachi Mondal has won the 2024 Global Recognition Award for his contributions to AI, machine learning, and digital cultural preservation. His innovative methods have improved operational efficiency and enterprise technology, with his approach being adopted by modern businesses across various sectors. Through his leadership and team development programs, Mondal has significantly increased project success rates and team performance metrics, while his personal initiative, Hatpakha Magazine, has set new standards for preserving cultural authenticity in the digital sphere."
+      },
+      {
+        "title": "JPMorganChase Brings Software Developer Conference DEVUP to India – Company Announcement - Financial Times",
+        "summary": "JPMorgan Chase & Co has initiated its software development conference, DEVUP, in India for the first time. The conference is happening at its Global Technology Centre in Hyderabad, where 350 developers, data scientists, and other professionals from across its global centres are joining. About one third of the bank’s 63,000 technologists are based in India, across Mumbai, Hyderabad, Bengaluru, and Pune. The event showcases the firm's commitment to fostering innovation and collaboration amongst its tech workforce in India."
+      },
+      {
+        "title": "Tech Giant CGI's Strategic UK Power Move: 2,400 Elite IT Experts Join Forces - StockTitan",
+        "summary": "CGI has entered into a purchase agreement to acquire UK-based technology and engineering consultancy BJSS, bolstering its UK presence and adding over 2,400 IT professionals to its workforce. The move will strengthen CGI's capabilities in sectors including retail, health, government, financial services, and energy, while integrating BJSS's expertise in AI, cloud, cybersecurity and software engineering. Following the acquisition, CGI will operate in 26 locations in the UK, enhancing service delivery and creating new opportunities for employees."
+      },
+      {
+        "title": "Atlassian issues urgent Confluence patch - Security - iTnews",
+        "summary": "Atlassian has released an urgent patch for a critical vulnerability in outdated Confluence data centre and server environments. The vulnerability, denoted as CVE-2023-22527 with a severity score of 10, enables an unauthenticated attacker to execute remote code. The fault, which does not affect recent versions, has been dealt with in version 8.5.5 of Confluence data centre and server version and Confluence data centre 8.7.2. Atlassian has released an additional 28 patches for high-rated vulnerabilities in other products."
+      },
+      {
+        "title": "Metis Books $177M NASA Contract for Aerospace R&D Simulations - GovCon Wire",
+        "summary": "Metis Technology Solutions, an engineering services company, has secured a $177 million contract from NASA. The agreement entails Metis providing engineering services for the development and maintenance of hardware and software for aerospace research and development simulations, including advanced air traffic management automation tools. The contract commences on December 1 and could extend to November 2029 if options are exercised."
+      },
+      {
+        "title": "Embotech implements new automated marshalling capabilities in BMW factories - Robotics and Automation News",
+        "summary": "Embotech, a provider of autonomous driving solutions, is collaborating with LiDAR software solutions provider, Outsight, and LiDAR hardware manufacturer, Hesai, to automate vehicle marshalling in BMW factories. The new setup allows cars to drive autonomously in the production facilities, improving safety and efficiency while eliminating the need to transport workers back to the production line. Bethesda's tech is currently supporting vehicle production and logistics processes in three BMW factories, with plans for a global rollout."
+      },
+      {
+        "title": "Istari Extends Digital Thread To Enable Engineering At Software Speed - Aviation Week",
+        "summary": "Istari is expanding its digital thread to facilitate faster and more efficient engineering. This move is inspired by Formula One auto racing techniques, which utilize rapid technologies similar to those used in aircraft composite structures, electric drives, and digital engineering. The full implications of this technological enhancement for the aerospace industry are not detailed in the summary."
+      },
+      {
+        "title": "NASA Selects Electrical Systems Engineering Services Contractor - IT News Online",
+        "summary": "NASA has chosen Columbus Technologies and Services Inc. as its electrical systems engineering services contractor, in a deal potentially worth $1.1 billion. The California-based firm will provide electrical and electronic support to the Goddard Space Flight Center in Maryland over a five-year period, assisting in the development of space flight, airborne, and ground system hardware."
+      }
+    ],
+    "natural language instructions": [
+      {
+        "title": "Researchers train AI to read minds—by decoding brain signals into text - News-Medical.Net",
+        "summary": "Researchers have developed an AI system, BrainLLM, that can generate text directly from brain recordings, advancing understanding of brain-to-text communication for potential use in AI-based communication and speech therapy. Unlike previous models that matched brain activity to predefined language options, BrainLLM uses a neural network to translate brain activities into a format that an LLM can understand, creating a more flexible, open-ended approach. The system performed best when trained with larger datasets and offers potential for future integration with motor-based brain-computer interfaces."
+      },
+      {
+        "title": "Enhancement of long-horizon task planning via active and passive modification in large language models - Nature.com",
+        "summary": "Enhancement of long-horizon task planning via active and passive modification in large language models | Scientific Reports\nSkip to main content\nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.\nAdvertisement\nView al..."
+      },
+      {
+        "title": "New robot control model utilizes sketches to follow instructions, developed by DeepMind and Stanford. - Global Village space",
+        "summary": "Stanford University and Google DeepMind have developed a new robot control model, called RT-Sketch, that utilizes sketches to provide instructions. This technique performs similarly to language- and image-based models in normal conditions but surpasses them in cases where such models fall short, offering rich spatial information in an easy-to-understand form. The researchers believe this approach, which outperformed others when visualising spatially precise tasks, could broaden the applications of robotics, including long-horizon tasks requiring step-by-step subgoals. Future research will explore the combination of sketches with other modalities such as language, images, and human gestures."
+      },
+      {
+        "title": "Beyond GPUs: How Quantum Processing Units (QPUs) Will Transform Computing - MarkTechPost",
+        "summary": "Quantum Processing Units (QPU) are set to revolutionize computing by overcoming the challenges faced by Graphics Processing Units (GPU), such as high power consumption and heat generation. QPUs use the principles of quantum mechanics to solve complex problems, potentially surpassing traditional computing systems in industries like drug discovery, finance, and AI. However, QPU adoption faces challenges including the need for new programming tools and quantum error correction techniques. The current state of QPU integration is comparable to GPUs in the mid-2000s, with ongoing research paving the way for its integration into computational infrastructures."
+      },
+      {
+        "title": "Microsoft AI Reasoning, Vision, Voice Models Released In New Beta Test Site 10/01/2024 - MediaPost Communications",
+        "summary": "Microsoft has released new AI reasoning and vision models through its experimental site, Copilot Labs, providing a limited number of users with early access for beta testing. The models include a reasoning tool named ‘Think Deeper’, capable of tackling complex problems, and Copilot Vision, which allows the AI to understand objects viewed by the user. These new capabilities are designed to transform Microsoft's technology into a more supportive and helpful system. No user data from interactions with these models will be stored or used for training in the preview version."
+      },
+      {
+        "title": "Learning from models beyond fine-tuning - Nature.com",
+        "summary": "Learning from models beyond fine-tuning | Nature Machine Intelligence\nSkip to main content\nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.\nAdvertisement\nView all journals\nSearch\nLog in\nExplore content\nAbout the jou..."
+      },
+      {
+        "title": "Frost & Sullivan Cites SuccessKPI as a Workforce Optimization Leader and AI-Powered Vendor to Watch in 2024 - PR Newswire",
+        "summary": "SuccessKPI, an Enterprise AI Analytics & Automation firm, has been singled out as an innovative, AI-powered leader shaping the growth of Workforce Optimization tools by research analysis firm Frost & Sullivan. Research analyst Ankita Singh emphasized that SuccessKPI's AI-driven approaches significantly enhance contact center/customer service agents' speed, accuracy, and efficiency. Additionally, Singh highlighted SuccessKPI's potential as a forerunning vendor in the sector to watch in 2024 and beyond. These recognitions stem from SuccessKPI's robust investments in AI technologies to improve business outcomes and customer experiences."
+      },
+      {
+        "title": "AI-Driven Approaches Enhance Climate Action Synergies - Evrim Ağacı",
+        "summary": "Artificial intelligence (AI) can play a pivotal role in aligning climate action with the sustainable development goals (SDGs) of different nations, according to a research published in Nature Communications. This study shows significant patterns and disparities between emissions targets and sustainable development goals, mainly in high-emission, middle- and low-income nations. Thus, AI can promote policy coherence as it allows governments to uncover the interconnections between Nationally Determined Contributions (NDCs) and Voluntary National Reviews (VNRs). The integration of AI into national development strategies may lead to more sustainable economic growth and effective climate action."
+      },
+      {
+        "title": "Two-Thirds of Enterprises Plan to Integrate AI-Powered Workforce Engagement Management Apps Into Customer Service Operations - PR Newswire",
+        "summary": "Two-thirds of enterprises are planning to integrate AI-Powered Workforce Engagement Management (WEM) applications into their customer service operations, according to a survey by IT research firm Frost & Sullivan. However, only 30% of companies believe CCaaS-WEM solutions are best for their needs, due to 70% of organizations having multiple types of contact center platforms. The findings will be discussed in further detail during a webinar on November 20th."
+      },
+      {
+        "title": "An Executive’s Crash Course In AI Agents - Forbes",
+        "summary": "A Forbes article emphasizes the importance of businesses incorporating AI agents into their strategies, emphasizing their capability to complete complex tasks, analyze data, and make decisions autonomously. The article also aims to clarify misconceptions surrounding AI agents and underscore their distinction from chatbots. It further highlights a study predicting agentic AI could bring 60% productivity gains, and stresses that while AI may render some jobs obsolete, it will also create new opportunities. However, the article cautions that implementing AI requires significant capital investment."
+      }
+    ],
+    "optical character recognition": [
+      {
+        "title": "Data Management News for the Week of January 12; Updates from Fivetran, Safe Software, Snowflake & More - Solutions Review",
+        "summary": "Data management solutions such as Ask-AI's generative AI, Opendatasoft's AI-powered search engine, and Dremio's solutions are increasing efficiency, enhancing workflow, and driving data-informed decisions in varied industries. Rackspace's Cloud DBOps service is designed to streamline data asset management on AWS while Safe Software focuses on unlocking data potential. However, reports from Law.com Compass Pacesetter Research show increased business problems due to poor data governance. In other news, Vijayant is set to lead Snowflake's business expansion in India."
+      },
+      {
+        "title": "Found: 280 Android apps that use OCR to steal cryptocurrency credentials - Ars Technica",
+        "summary": "Security researchers have identified more than 280 malicious Android apps that utilize optical character recognition (OCR) to steal cryptocurrency wallet credentials. These apps, disguised as official ones from banks or utilities, stealthily scan text messages, contacts, and images on the infected devices and transmit the data to remote servers. Despite the apps not being available on Google Play, they have been spread through malicious sites and phishing messages, and their sophistication continues to increase over time. The malware primarily targets users in South Korea but has recently begun to spread in the UK."
+      },
+      {
+        "title": "Save time thanks to AI: 5 skills you no longer need to learn - Euronews",
+        "summary": "Artificial intelligence (AI) technological advancements now automate certain routine tasks, making it unnecessary to learn five particular skills. Particularly, AI can now automate simple writing tasks, manual design work in art, data entry and data analysis, and basic video editing. While this automation could spark fears of job loss, experts believe that AI will always require human collaboration, thus sparking a shift toward more creative and critical thinking roles. Consequently, in the AI era, soft skills are expected to become highly valuable and in-demand."
+      },
+      {
+        "title": "WaveFx and Lazarus AI: Revolutionizing Data Challenges with Groundbreaking AI Technology - FinTech Futures",
+        "summary": "WaveFx, a New Bedford-based company, has invested in Lazarus AI, a Cambridge-based firm specializing in document understanding with AI technology. The investment will support the development of scalable workflows tailored to Lazarus AI's business objectives. Lazarus AI uses Optical Character Recognition technology and a proprietary language model, RikAI-2, to process data from various formats. This technology has applications in several industries and has significantly reduced time spent on tasks such as reviewing and approving disability claims."
+      },
+      {
+        "title": "Audit of Georgia ballots proves that Dominion Voting Machine conspiracy theories are false - The Augusta Chronicle",
+        "summary": "An exhaustive audit of all 5.3 million ballots cast in Georgia in the 2024 election confirmed the original count with only 87 discrepancies due to human error, debunking conspiracy theories about inaccuracy of Dominion Voting Systems. This largest-ever ballot image audit conducted found zero differences between the tabulations from Dominion's scanning machines and the human-readable text on the ballots. Secretary of State Brad Raffensperger praised the results, asserting that Georgia's system works accurately and can be trusted, whilst advocating for nationwide post-election audits to boost consistency and public trust."
+      },
+      {
+        "title": "Box Acquires Alphamoon To Boost Intelligent Document Processing - Forbes",
+        "summary": "Content management platform Box has acquired Alphamoon, a company focusing on intelligent document handling. The acquisition should enhance Box's capacity to automate workflows and process content by extracting metadata from complex documents, thanks to Alphamoon's advanced language processing and optical character recognition. This move builds on Box's earlier acquisition of no-code workflow automation platform Crooze, advancing the firm's ambition for an Intelligent Content Management platform by capturing, indexing, and enabling easy access to unstructured data within documents."
+      },
+      {
+        "title": "New Android malware uses OCR to steal crypto wallet keys from images - TechSpot",
+        "summary": "A sophisticated Android malware, named SpyAgent, that uses optical character recognition (OCR) technology to steal crypto wallet security codes has been identified by McAfee Labs. The malware, which originated in Korea, disguises itself as a legitimate app and then scans and collects information, including mnemonic keys, from users' stored images once installed. SpyAgent has seen rapid expansion, recently reaching the UK, and its creators are believed to be working on a version for iOS."
+      },
+      {
+        "title": "EXCLUSIVE: Zenni dives deep into consumer trends with AI - Chain Store Age",
+        "summary": "Direct-to-consumer eyewear retailer Zenni is using artificial intelligence (AI) to identify and respond to microtrends in consumer demand. The company's AI technology, Algolia AI, forms collections based on established microtrends and provides data to their procurement team, thereby affecting their search process, procurement, and social media engagement. Since implementing AI for microtrend identification six months ago, Zenni has seen a 34% rise in revenue per search."
+      },
+      {
+        "title": "A deep learning approach for line-level Amharic Braille image recognition - Nature.com",
+        "summary": "A deep learning approach for line-level Amharic Braille image recognition | Scientific Reports\nSkip to main content\nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.\nAdvertisement\nView all journals\nSearch\nLog in\nExpl..."
+      },
+      {
+        "title": "AI-Driven BPO: The Future of Insurance Operations - Insurance Journal",
+        "summary": "Selectsys' AI-driven Business Process Outsourcing (BPO) model is transforming the insurance industry, aiming to increase efficiency and reduce operational costs. By leveraging AI technology for tasks such as submission automation, policy management, and claims management, Selectsys reduces manual workload, alleviates operational inaccuracies, and decreases processing delays. Such AI integration is proven to result in 50% faster processing and a 30% reduction in operational costs, allowing insurers to handle more business using the same workforce."
+      }
+    ],
+    "Mixture of Experts": [
+      {
+        "title": "Everybody's talking about Mistral, an upstart French challenger to OpenAI - Ars Technica",
+        "summary": "French AI company Mistral has announced a new AI language model, Mixtral 8x7B, which reportedly matches OpenAI's GPT-3.5 in performance. Unlike bigger models from tech giants, Mistral's models can run locally with open weights, offering fewer restrictions and better privacy for users. The Mixtral model takes advantage of Mixture of Experts (MoE) systems for efficient and scalable model training, and is currently available under the Apache 2.0 license."
+      },
+      {
+        "title": "Google Is Testing an AI Model 700X More Powerful Than OpenAI's Flagship Chatbot - Decrypt",
+        "summary": "Google is testing its Gemini Pro 1.5 AI model, which can process 1.5 million tokens, significantly outpacing the rival OpenAI's model that handles 128,000 tokens. This upgrade makes the Gemini Pro theoretically 700% more powerful than the paid version of OpenAI's GPT-4 model, setting a new bar in the field of computational linguistics and machine learning. Despite the testing phase allowing such a high token count, the upcoming stable version of Gemini Pro will operate at a 128,000 token limit, still a major upgrade from its predecessor."
+      },
+      {
+        "title": "Google's new Gemini 1.5 retools its AI into one advanced model - Business Insider",
+        "summary": "Google announced an upgrade to its large language model (LLM), Gemini 1.5, to compete with OpenAI's GPT-4 and other language models. Gemini 1.5, an AI model capable of processing various types of data such as text, images, and audio, uses a \"mixture of experts\" model for more efficient processing and boasts an increased context window capacity, able to handle up to 1 million tokens. The updated AI model outperformed its predecessor in 87% of benchmark tests, according to Google, and has undergone extensive safety testing to address concerns about the tech's potential misuse."
+      },
+      {
+        "title": "Mixture-Of-Experts AI Reasoning Models Suddenly Taking Center Stage Due To China’s DeepSeek Shock-And-Awe - Forbes",
+        "summary": "Mixture-of-experts (MoE) AI reasoning models have gained significant attention following the release of China-based DeepSeek’s AI model R1, which extensively utilizes MoE. The release of R1, that reportedly was developed at a substantially reduced cost, challenged assumptions that sizable and expensive hardware is necessary for creating advanced AI models. In response to DeepSeek's announcement, major US AI firms and hardware provider Nvidia saw a drop in their stock prices. MoE models, which distribute work to various components or 'experts,' are advantageous for their enhanced speed and specificity, though potential downsides include overutilization of certain experts and challenges in selecting the number and focus of these experts."
+      },
+      {
+        "title": "Scaling Large Language Models with Parameter Efficient Expert Retrieval: Improving Performance and Efficiency with Millions of Experts - Global Village space",
+        "summary": "Google's DeepMind has developed a new architecture called Parameter Efficient Expert Retrieval (PEER) to scale large language models (LLMs) more effectively. PEER can scale Mixture-of-Experts (MoE) models to millions of experts, improving performance and computational efficiency. By replacing traditional fixed routers with a learned index, PEER enables faster data routing and improves knowledge transfer and parameter efficiency. Tests showed that PEER models outperformed other models whilst achieving better computational tradeoff, thus debunking the belief that MoE models peak at a limited number of experts."
+      },
+      {
+        "title": "Marc Benioff of Salesforce: ‘You’re going to have to throw a lot against the wall before you figure out what sticks’ - Financial Times",
+        "summary": "Marc Benioff, CEO of Salesforce, discussed the impact of artificial intelligence (AI) and its potential to revolutionize industries in a Financial Times interview. He touted AI's potential to boost GDP without adding more people, but also acknowledged potential job losses. Benioff revealed Salesforce's bet on AI, with its Agentforce brand witnessing considerable customer pick-up and revenue increase. However, he expressed concerns about the AI sector experiencing a potential bubble, stating that AI models will likely become commodities."
+      },
+      {
+        "title": "'Insane' Startups Are Trying to Usurp Nvidia's AI Throne - Business Insider",
+        "summary": "Despite Nvidia's dominant performance in the AI chip market, various startups are hoping to challenge their supremacy, with strategies varying from specialized hardware to competing software layers. Notably, Positron AI focuses on transformer models, which underpin many recent AI breakthroughs, and asserts it can deliver products more rapidly than other startups. Other competitors include Rivos, which is developing a combination of CPU and GPU optimized for large language models, and Etched, which is designing GPUs specifically for transformer architecture. It remains to be seen how these startups will fare against the current market leader."
+      },
+      {
+        "title": "US And British Regulators Are Interested In Microsoft's Investment In OpenAI - Tech News Space",
+        "summary": "US and UK antitrust regulators are investigating Microsoft's $13 billion investment in OpenAI. The US Federal Trade Commission and the UK’s Competition and Markets Authority are particularly looking into possible control acquisition by Microsoft over OpenAI which could threaten competition. The outcome of these reviews could potentially impact future large-scale tech mergers and acquisitions."
+      },
+      {
+        "title": "Retell AI lets companies build 'voice agents' to answer phone calls - TechCrunch",
+        "summary": "AI firm Retell is enabling companies to build AI “voice agents” to handle customer service calls, aiming to reduce costs and wait times in call centers. Retell's AI voice agents use large language models (LLMs) for customer service cases and a speech model for voice-to-text. The software allows contact centers and businesses to create custom AI voice agents or use generic models. Though effective for simple tasks, complex inquiries remain challenging. The global market for AI in contact centers is projected to grow from $2.4 billion in 2022 to almost $3 billion in 2028 according to TechSci Research."
+      },
+      {
+        "title": "OpenAI Co-founder Ilya Sutskever's Future At The Company Remains In Doubt - Tech News Space",
+        "summary": "OpenAI's co-founder and chief scientist, Ilya Sutskever’s future at the firm remains uncertain following the return of Sam Altman as CEO. Sutskever was reportedly instrumental in Altman's temporary ouster. Sutskever, whose influence in the company is significant, was not present at OpenAI’s office this week, and his future role in the company has not yet been officially discussed. Internally, conversations are underway to potentially find a new position for him, but no certainties have been established."
+      }
+    ]
+  }
+}

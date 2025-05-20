@@ -1,0 +1,685 @@
+{
+  "timestamp": "20250520_015641",
+  "data": {
+    "artificial intelligence": {
+      "market_adoption": 90,
+      "research_activity": 95,
+      "investment_interest": 88,
+      "media_coverage": 92,
+      "future_potential": 96,
+      "total_score": 92
+    },
+    "AI Thinking": {
+      "market_adoption": 80,
+      "research_activity": 88,
+      "investment_interest": 75,
+      "media_coverage": 87,
+      "future_potential": 92,
+      "total_score": 84
+    },
+    "symbolic AI": {
+      "market_adoption": 70,
+      "research_activity": 80,
+      "investment_interest": 60,
+      "media_coverage": 75,
+      "future_potential": 85,
+      "total_score": 74
+    },
+    "subsymbolic AI": {
+      "market_adoption": 65,
+      "research_activity": 78,
+      "investment_interest": 65,
+      "media_coverage": 70,
+      "future_potential": 80,
+      "total_score": 72
+    },
+    "Intersymbolic AI": {
+      "market_adoption": 72,
+      "research_activity": 78,
+      "investment_interest": 70,
+      "media_coverage": 67,
+      "future_potential": 82,
+      "total_score": 74
+    },
+    "AI transparency": {
+      "market_adoption": 78,
+      "research_activity": 85,
+      "investment_interest": 70,
+      "media_coverage": 80,
+      "future_potential": 90,
+      "total_score": 81
+    },
+    "uncertainty": {
+      "market_adoption": 70,
+      "research_activity": 60,
+      "investment_interest": 65,
+      "media_coverage": 75,
+      "future_potential": 80,
+      "total_score": 70
+    },
+    "AI's confidence level": {
+      "market_adoption": 80,
+      "research_activity": 89,
+      "investment_interest": 84,
+      "media_coverage": 77,
+      "future_potential": 93,
+      "total_score": 85
+    },
+    "AI/ML Security Workers": {
+      "market_adoption": 67,
+      "research_activity": 76,
+      "investment_interest": 80,
+      "media_coverage": 72,
+      "future_potential": 88,
+      "total_score": 77
+    },
+    "Adversarial Techniques": {
+      "market_adoption": 70,
+      "research_activity": 85,
+      "investment_interest": 65,
+      "media_coverage": 75,
+      "future_potential": 80,
+      "total_score": 75
+    },
+    "AI/ML ATT&CK framework": {
+      "market_adoption": 68,
+      "research_activity": 86,
+      "investment_interest": 72,
+      "media_coverage": 78,
+      "future_potential": 91,
+      "total_score": 79
+    },
+    "AI/ML fairness": {
+      "market_adoption": 65,
+      "research_activity": 85,
+      "investment_interest": 70,
+      "media_coverage": 75,
+      "future_potential": 90,
+      "total_score": 77
+    },
+    "AI Ethics": {
+      "market_adoption": 65,
+      "research_activity": 85,
+      "investment_interest": 65,
+      "media_coverage": 80,
+      "future_potential": 90,
+      "total_score": 77
+    },
+    "AI Readiness": {
+      "market_adoption": 75,
+      "research_activity": 80,
+      "investment_interest": 85,
+      "media_coverage": 70,
+      "future_potential": 90,
+      "total_score": 80
+    },
+    "AI integration": {
+      "market_adoption": 85,
+      "research_activity": 90,
+      "investment_interest": 85,
+      "media_coverage": 90,
+      "future_potential": 95,
+      "total_score": 89
+    },
+    "AI adoption": {
+      "market_adoption": 85,
+      "research_activity": 80,
+      "investment_interest": 87,
+      "media_coverage": 80,
+      "future_potential": 90,
+      "total_score": 84
+    },
+    "AI-CAM": {
+      "market_adoption": 80,
+      "research_activity": 85,
+      "investment_interest": 90,
+      "media_coverage": 70,
+      "future_potential": 95,
+      "total_score": 84
+    },
+    "AI Capabilities Matrix": {
+      "market_adoption": 70,
+      "research_activity": 90,
+      "investment_interest": 85,
+      "media_coverage": 80,
+      "future_potential": 95,
+      "total_score": 84
+    },
+    "machine learning": {
+      "market_adoption": 85,
+      "research_activity": 92,
+      "investment_interest": 86,
+      "media_coverage": 88,
+      "future_potential": 94,
+      "total_score": 89
+    },
+    "semantic technologies": {
+      "market_adoption": 0,
+      "research_activity": 0,
+      "investment_interest": 0,
+      "media_coverage": 0,
+      "future_potential": 0,
+      "total_score": 0
+    },
+    "human-AI collaborative decision-making": {
+      "market_adoption": 75,
+      "research_activity": 85,
+      "investment_interest": 70,
+      "media_coverage": 80,
+      "future_potential": 90,
+      "total_score": 80
+    },
+    "explainable AI (XAI)": {
+      "market_adoption": 76,
+      "research_activity": 82,
+      "investment_interest": 79,
+      "media_coverage": 72,
+      "future_potential": 88,
+      "total_score": 79
+    },
+    "human-AI interaction": {
+      "market_adoption": 70,
+      "research_activity": 85,
+      "investment_interest": 65,
+      "media_coverage": 80,
+      "future_potential": 90,
+      "total_score": 78
+    },
+    "AI system for stroke rehabilitation assessment": {
+      "market_adoption": 78,
+      "research_activity": 92,
+      "investment_interest": 83,
+      "media_coverage": 75,
+      "future_potential": 95,
+      "total_score": 85
+    },
+    "large language models": {
+      "market_adoption": 85,
+      "research_activity": 95,
+      "investment_interest": 88,
+      "media_coverage": 92,
+      "future_potential": 96,
+      "total_score": 91
+    },
+    "databases": {
+      "market_adoption": 85,
+      "research_activity": 90,
+      "investment_interest": 80,
+      "media_coverage": 85,
+      "future_potential": 95,
+      "total_score": 87
+    },
+    "LLM-integrated applications": {
+      "market_adoption": 80,
+      "research_activity": 85,
+      "investment_interest": 82,
+      "media_coverage": 90,
+      "future_potential": 95,
+      "total_score": 86
+    },
+    "software engineering": {
+      "market_adoption": 88,
+      "research_activity": 90,
+      "investment_interest": 87,
+      "media_coverage": 85,
+      "future_potential": 95,
+      "total_score": 89
+    },
+    "LLM components": {
+      "market_adoption": 78,
+      "research_activity": 86,
+      "investment_interest": 70,
+      "media_coverage": 72,
+      "future_potential": 88,
+      "total_score": 79
+    },
+    "Parrot": {
+      "market_adoption": 50,
+      "research_activity": 80,
+      "investment_interest": 65,
+      "media_coverage": 70,
+      "future_potential": 77,
+      "total_score": 68
+    },
+    "Semantic Variable": {
+      "market_adoption": 60,
+      "research_activity": 75,
+      "investment_interest": 65,
+      "media_coverage": 70,
+      "future_potential": 80,
+      "total_score": 70
+    },
+    "LLM service system": {
+      "market_adoption": 70,
+      "research_activity": 85,
+      "investment_interest": 75,
+      "media_coverage": 80,
+      "future_potential": 90,
+      "total_score": 80
+    },
+    "Code LLMs": {
+      "market_adoption": 70,
+      "research_activity": 85,
+      "investment_interest": 60,
+      "media_coverage": 75,
+      "future_potential": 80,
+      "total_score": 74
+    },
+    "LLM Online Spatial-temporal Reconstruction": {
+      "market_adoption": 55,
+      "research_activity": 70,
+      "investment_interest": 60,
+      "media_coverage": 50,
+      "future_potential": 75,
+      "total_score": 62
+    },
+    "Graph Signal Processing": {
+      "market_adoption": 70,
+      "research_activity": 80,
+      "investment_interest": 70,
+      "media_coverage": 75,
+      "future_potential": 85,
+      "total_score": 76
+    },
+    "GPT-4-o mini": {
+      "market_adoption": 70,
+      "research_activity": 85,
+      "investment_interest": 75,
+      "media_coverage": 70,
+      "future_potential": 80,
+      "total_score": 76
+    },
+    "asynchronous LLM function calling": {
+      "market_adoption": 70,
+      "research_activity": 85,
+      "investment_interest": 65,
+      "media_coverage": 75,
+      "future_potential": 90,
+      "total_score": 77
+    },
+    "AsyncLM": {
+      "market_adoption": 60,
+      "research_activity": 75,
+      "investment_interest": 70,
+      "media_coverage": 65,
+      "future_potential": 80,
+      "total_score": 70
+    },
+    "interrupt mechanism": {
+      "market_adoption": 70,
+      "research_activity": 80,
+      "investment_interest": 65,
+      "media_coverage": 60,
+      "future_potential": 75,
+      "total_score": 70
+    },
+    "in-context protocol": {
+      "market_adoption": 80,
+      "research_activity": 85,
+      "investment_interest": 70,
+      "media_coverage": 75,
+      "future_potential": 90,
+      "total_score": 80
+    },
+    "Berkeley function calling leaderboard": {
+      "market_adoption": 70,
+      "research_activity": 80,
+      "investment_interest": 60,
+      "media_coverage": 70,
+      "future_potential": 80,
+      "total_score": 72
+    },
+    "Multi-LLM Text Summarization": {
+      "market_adoption": 75,
+      "research_activity": 85,
+      "investment_interest": 70,
+      "media_coverage": 60,
+      "future_potential": 90,
+      "total_score": 76
+    },
+    "multi-LLM decentralized summarization": {
+      "market_adoption": 60,
+      "research_activity": 85,
+      "investment_interest": 70,
+      "media_coverage": 75,
+      "future_potential": 80,
+      "total_score": 74
+    },
+    "multi-LLM centralized summarization": {
+      "market_adoption": 65,
+      "research_activity": 85,
+      "investment_interest": 70,
+      "media_coverage": 60,
+      "future_potential": 75,
+      "total_score": 71
+    },
+    "LLM-based generative graph analytics": {
+      "market_adoption": 80,
+      "research_activity": 85,
+      "investment_interest": 80,
+      "media_coverage": 75,
+      "future_potential": 90,
+      "total_score": 82
+    },
+    "LLM-based graph query processing": {
+      "market_adoption": 70,
+      "research_activity": 80,
+      "investment_interest": 65,
+      "media_coverage": 75,
+      "future_potential": 85,
+      "total_score": 75
+    },
+    "knowledge graph": {
+      "market_adoption": 70,
+      "research_activity": 80,
+      "investment_interest": 73,
+      "media_coverage": 75,
+      "future_potential": 90,
+      "total_score": 78
+    },
+    "graph-LLM-based applications": {
+      "market_adoption": 65,
+      "research_activity": 80,
+      "investment_interest": 76,
+      "media_coverage": 70,
+      "future_potential": 85,
+      "total_score": 75
+    },
+    "LLM-as-a-Judge": {
+      "market_adoption": 70,
+      "research_activity": 80,
+      "investment_interest": 60,
+      "media_coverage": 75,
+      "future_potential": 85,
+      "total_score": 74
+    },
+    "RLHF": {
+      "market_adoption": 60,
+      "research_activity": 80,
+      "investment_interest": 70,
+      "media_coverage": 65,
+      "future_potential": 70,
+      "total_score": 69
+    },
+    "DPO": {
+      "market_adoption": 0,
+      "research_activity": 0,
+      "investment_interest": 0,
+      "media_coverage": 0,
+      "future_potential": 0,
+      "total_score": 0
+    },
+    "alignment tasks": {
+      "market_adoption": 70,
+      "research_activity": 75,
+      "investment_interest": 70,
+      "media_coverage": 65,
+      "future_potential": 80,
+      "total_score": 72
+    },
+    "TL;DR Summarization": {
+      "market_adoption": 60,
+      "research_activity": 80,
+      "investment_interest": 65,
+      "media_coverage": 70,
+      "future_potential": 85,
+      "total_score": 72
+    },
+    "HH-RLHF-Helpfulness": {
+      "market_adoption": 0,
+      "research_activity": 0,
+      "investment_interest": 0,
+      "media_coverage": 0,
+      "future_potential": 0,
+      "total_score": 0
+    },
+    "IRFuzzer": {
+      "market_adoption": 0,
+      "research_activity": 0,
+      "investment_interest": 0,
+      "media_coverage": 0,
+      "future_potential": 0,
+      "total_score": 0
+    },
+    "LLVM compiler backend": {
+      "market_adoption": 85,
+      "research_activity": 79,
+      "investment_interest": 70,
+      "media_coverage": 67,
+      "future_potential": 81,
+      "total_score": 76
+    },
+    "constrained mutations": {
+      "market_adoption": 45,
+      "research_activity": 85,
+      "investment_interest": 55,
+      "media_coverage": 65,
+      "future_potential": 90,
+      "total_score": 68
+    },
+    "feedback quality": {
+      "market_adoption": 70,
+      "research_activity": 75,
+      "investment_interest": 65,
+      "media_coverage": 72,
+      "future_potential": 78,
+      "total_score": 72
+    },
+    "mutator": {
+      "market_adoption": 60,
+      "research_activity": 80,
+      "investment_interest": 70,
+      "media_coverage": 65,
+      "future_potential": 80,
+      "total_score": 71
+    },
+    "instrumentation": {
+      "market_adoption": 75,
+      "research_activity": 80,
+      "investment_interest": 70,
+      "media_coverage": 65,
+      "future_potential": 85,
+      "total_score": 75
+    },
+    "matcher table coverage": {
+      "market_adoption": 60,
+      "research_activity": 68,
+      "investment_interest": 70,
+      "media_coverage": 72,
+      "future_potential": 75,
+      "total_score": 69
+    },
+    "architecture specific guidance": {
+      "market_adoption": 0,
+      "research_activity": 0,
+      "investment_interest": 0,
+      "media_coverage": 0,
+      "future_potential": 0,
+      "total_score": 0
+    },
+    "Traversal of Layers": {
+      "market_adoption": 60,
+      "research_activity": 85,
+      "investment_interest": 70,
+      "media_coverage": 70,
+      "future_potential": 80,
+      "total_score": 73
+    },
+    "visual instruction tuning": {
+      "market_adoption": 60,
+      "research_activity": 80,
+      "investment_interest": 65,
+      "media_coverage": 70,
+      "future_potential": 85,
+      "total_score": 72
+    },
+    "vision language performances": {
+      "market_adoption": 0,
+      "research_activity": 0,
+      "investment_interest": 0,
+      "media_coverage": 0,
+      "future_potential": 0,
+      "total_score": 0
+    },
+    "natural language instructions": {
+      "market_adoption": 86,
+      "research_activity": 92,
+      "investment_interest": 85,
+      "media_coverage": 90,
+      "future_potential": 97,
+      "total_score": 90
+    },
+    "layer traversing technique": {
+      "market_adoption": 25,
+      "research_activity": 30,
+      "investment_interest": 20,
+      "media_coverage": 15,
+      "future_potential": 35,
+      "total_score": 25
+    },
+    "forward propagation layers": {
+      "market_adoption": 70,
+      "research_activity": 85,
+      "investment_interest": 75,
+      "media_coverage": 65,
+      "future_potential": 89,
+      "total_score": 77
+    },
+    "Phantom": {
+      "market_adoption": 60,
+      "research_activity": 80,
+      "investment_interest": 85,
+      "media_coverage": 75,
+      "future_potential": 90,
+      "total_score": 78
+    },
+    "latent hidden dimension": {
+      "market_adoption": 65,
+      "research_activity": 85,
+      "investment_interest": 60,
+      "media_coverage": 70,
+      "future_potential": 80,
+      "total_score": 72
+    },
+    "multi-head self-attention": {
+      "market_adoption": 60,
+      "research_activity": 85,
+      "investment_interest": 45,
+      "media_coverage": 50,
+      "future_potential": 80,
+      "total_score": 64
+    },
+    "Phantom Optimization": {
+      "market_adoption": 70,
+      "research_activity": 80,
+      "investment_interest": 60,
+      "media_coverage": 75,
+      "future_potential": 85,
+      "total_score": 74
+    },
+    "autoregressive supervised fine-tuning": {
+      "market_adoption": 70,
+      "research_activity": 85,
+      "investment_interest": 65,
+      "media_coverage": 75,
+      "future_potential": 90,
+      "total_score": 77
+    },
+    "direct preference optimization": {
+      "market_adoption": 65,
+      "research_activity": 85,
+      "investment_interest": 70,
+      "media_coverage": 75,
+      "future_potential": 90,
+      "total_score": 77
+    },
+    "Mixture of All Intelligence": {
+      "market_adoption": 80,
+      "research_activity": 85,
+      "investment_interest": 75,
+      "media_coverage": 70,
+      "future_potential": 90,
+      "total_score": 80
+    },
+    "instruction-tuned large language and vision models": {
+      "market_adoption": 70,
+      "research_activity": 90,
+      "investment_interest": 80,
+      "media_coverage": 75,
+      "future_potential": 85,
+      "total_score": 80
+    },
+    "vision language data": {
+      "market_adoption": 75,
+      "research_activity": 85,
+      "investment_interest": 80,
+      "media_coverage": 70,
+      "future_potential": 90,
+      "total_score": 80
+    },
+    "visual perception tasks": {
+      "market_adoption": 70,
+      "research_activity": 85,
+      "investment_interest": 75,
+      "media_coverage": 80,
+      "future_potential": 90,
+      "total_score": 80
+    },
+    "segmentation": {
+      "market_adoption": 0,
+      "research_activity": 0,
+      "investment_interest": 0,
+      "media_coverage": 0,
+      "future_potential": 0,
+      "total_score": 0
+    },
+    "detection": {
+      "market_adoption": 80,
+      "research_activity": 85,
+      "investment_interest": 75,
+      "media_coverage": 80,
+      "future_potential": 88,
+      "total_score": 82
+    },
+    "scene graph generation": {
+      "market_adoption": 45,
+      "research_activity": 70,
+      "investment_interest": 50,
+      "media_coverage": 55,
+      "future_potential": 70,
+      "total_score": 58
+    },
+    "optical character recognition": {
+      "market_adoption": 88,
+      "research_activity": 85,
+      "investment_interest": 80,
+      "media_coverage": 84,
+      "future_potential": 92,
+      "total_score": 86
+    },
+    "MoAI-Compressor": {
+      "market_adoption": 80,
+      "research_activity": 75,
+      "investment_interest": 68,
+      "media_coverage": 70,
+      "future_potential": 78,
+      "total_score": 74
+    },
+    "MoAI-Mixer": {
+      "market_adoption": 20,
+      "research_activity": 85,
+      "investment_interest": 30,
+      "media_coverage": 40,
+      "future_potential": 85,
+      "total_score": 52
+    },
+    "Mixture of Experts": {
+      "market_adoption": 75,
+      "research_activity": 90,
+      "investment_interest": 80,
+      "media_coverage": 85,
+      "future_potential": 95,
+      "total_score": 85
+    }
+  }
+}
