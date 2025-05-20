@@ -303,16 +303,30 @@ Provide a comprehensive analysis focusing on concrete evidence and actionable in
         elements.append(Paragraph(summary, self.normal_style))
         elements.append(Spacer(1, 30))
 
-        # Process each technology
-        total_techs = sum(len(techs) for techs in state["summarized_tech"].values())
-        print(f"\nAnalyzing {total_techs} technologies...")
+        # Filter technologies with total score >= 85
+        high_scoring_techs = {}
+        for keyword, technologies in state["summarized_tech"].items():
+            high_scoring_techs[keyword] = []
+            for tech in technologies:
+                metrics = state.get("trend_metrics", {}).get(tech, {})
+                if metrics.get("total_score", 0) >= 85:
+                    high_scoring_techs[keyword].append(tech)
+
+        # Process each high-scoring technology
+        total_techs = sum(len(techs) for techs in high_scoring_techs.values())
+        print(f"\nAnalyzing {total_techs} high-scoring technologies (score >= 85)...")
 
         with tqdm(total=total_techs, desc="Technology Analysis") as pbar:
-            for keyword, technologies in state["summarized_tech"].items():
-                elements.append(Paragraph(f"Category: {keyword}", self.heading_style))
-                for tech in technologies:
-                    elements.extend(self.create_technology_section(tech, state))
-                    pbar.update(1)
+            for keyword, technologies in high_scoring_techs.items():
+                if (
+                    technologies
+                ):  # Only add category if it has high-scoring technologies
+                    elements.append(
+                        Paragraph(f"Category: {keyword}", self.heading_style)
+                    )
+                    for tech in technologies:
+                        elements.extend(self.create_technology_section(tech, state))
+                        pbar.update(1)
 
         print("\nGenerating PDF...")
         # Build the PDF

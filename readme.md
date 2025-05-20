@@ -147,7 +147,7 @@ pip install -r requirements.txt
 2. API 키 설정
 
 ```bash
-cp .env.example .env
+cp .\$env .env
 # .env 파일에 필요한 API 키 입력
 ```
 
